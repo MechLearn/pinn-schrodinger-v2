@@ -1,0 +1,22 @@
+{
+  "potential": "harmonic",
+  "n": 1,
+  "experiment_name": "harmonic_A1",
+  "seed": 0,
+  "E_learned": 0.7146025896072388,
+  "E_exact": 0.5,
+  "E_rel": 0.42920517921361917,
+  "L2": 0.0863055112384086,
+  "integral": 0.9998675584793091,
+  "final_loss": 0.001994173740968108,
+  "final_pde": 0.001994000282138586,
+  "final_norm": 1.7351808878629527e-08,
+  "epochs": 8000,
+  "N_col": 4096,
+  "hidden": 128,
+  "use_sine": true,
+  "x_max": 6.0,
+  "lam_hi": 40.0,
+  "lam_lo": 10.0,
+  "lr0": 0.001
+}
