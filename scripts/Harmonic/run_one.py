@@ -1,8 +1,6 @@
-# scripts/Harmonic/run_one.py
-
-from pinn1d.Harmonic.config import load_config
+from pinn1d.config import load_config
 from pinn1d.Harmonic.train import run_one_mode_learnE
-import tensorflow as tf
+import torch
 import sys
 
 if __name__ == "__main__":
@@ -14,7 +12,7 @@ if __name__ == "__main__":
 
     n      = int(sys.argv[1])
     seed_n = int(cfg.get("seed", 0)) * 100 + n
-    tf.keras.utils.set_random_seed(seed_n)
+    torch.manual_seed(seed_n)
 
     print(f"=== Oscilador Armónico · n={n} · seed={seed_n} ===")
     run_one_mode_learnE(n, cfg)

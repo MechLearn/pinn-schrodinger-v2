@@ -1,0 +1,1711 @@
+nohup: ignoring input
+
+==================================================
+Arquitectura: A1 (128 neuronas)
+==================================================
+
+--- Seed 0 ---
+  n=1 ya completado, saltando...
+  n=2 ya completado, saltando...
+  n=3 ya completado, saltando...
+  n=4 ya completado, saltando...
+  n=5 ya completado, saltando...
+  n=6 ya completado, saltando...
+  n=7 ya completado, saltando...
+  n=8 ya completado, saltando...
+  n=9 ya completado, saltando...
+  n=10 ya completado, saltando...
+  n=11 ya completado, saltando...
+  n=12 ya completado, saltando...
+  n=13 ya completado, saltando...
+  n=14 ya completado, saltando...
+  n=15 ya completado, saltando...
+
+===== n=16 seed=16 =====
+Usando device: cuda
+n=16 ep=1 E=15.500000 L=2.954e+02 LPDE=1.142e-01 Lnorm=9.843e-01 integral=0.007862 lam=300.0
+n=16 ep=4000 E=14.542704 L=1.249e+01 LPDE=1.249e+01 Lnorm=4.775e-07 integral=0.999309 lam=300.0
+n=16 ep=8000 E=13.689786 L=1.079e+01 LPDE=1.078e+01 Lnorm=2.731e-05 integral=0.994774 lam=300.0
+n=16 ep=12000 E=13.036126 L=9.580e+00 LPDE=9.562e+00 Lnorm=5.887e-05 integral=0.992327 lam=300.0
+n=16 ep=16000 E=12.628710 L=8.960e-01 LPDE=8.935e-01 Lnorm=3.217e-05 integral=0.994328 lam=80.0
+n=16 ep=20000 E=12.408682 L=8.308e-01 LPDE=8.286e-01 Lnorm=2.782e-05 integral=0.994726 lam=80.0
+
+===== n=17 seed=17 =====
+Usando device: cuda
+n=17 ep=1 E=16.500000 L=2.097e+02 LPDE=2.868e+00 Lnorm=6.896e-01 integral=0.169605 lam=300.0
+n=17 ep=4000 E=15.515887 L=6.081e+00 LPDE=6.055e+00 Lnorm=8.818e-05 integral=0.990610 lam=300.0
+n=17 ep=8000 E=14.840356 L=1.360e+00 LPDE=1.357e+00 Lnorm=1.098e-05 integral=0.996687 lam=300.0
+n=17 ep=12000 E=14.297060 L=1.221e+00 LPDE=1.221e+00 Lnorm=1.145e-06 integral=0.998930 lam=300.0
+n=17 ep=16000 E=13.915825 L=1.034e+00 LPDE=1.029e+00 Lnorm=5.474e-05 integral=0.992602 lam=80.0
+n=17 ep=20000 E=13.690260 L=9.473e-01 LPDE=9.437e-01 Lnorm=4.476e-05 integral=0.993310 lam=80.0
+
+===== n=18 seed=18 =====
+Usando device: cuda
+n=18 ep=1 E=17.500000 L=2.998e+02 LPDE=5.638e-03 Lnorm=9.994e-01 integral=0.000294 lam=300.0
+n=18 ep=4000 E=16.377096 L=1.627e+01 LPDE=1.593e+01 Lnorm=1.110e-03 integral=0.966680 lam=300.0
+n=18 ep=8000 E=15.548357 L=9.085e+00 LPDE=8.882e+00 Lnorm=6.773e-04 integral=0.973976 lam=300.0
+n=18 ep=12000 E=15.067802 L=7.318e-01 LPDE=7.312e-01 Lnorm=1.855e-06 integral=0.998638 lam=300.0
+n=18 ep=16000 E=14.600882 L=6.031e-01 LPDE=6.017e-01 Lnorm=1.754e-05 integral=0.995812 lam=80.0
+n=18 ep=20000 E=14.362925 L=5.526e-01 LPDE=5.515e-01 Lnorm=1.405e-05 integral=0.996251 lam=80.0
+
+===== n=19 seed=19 =====
+Usando device: cuda
+n=19 ep=1 E=18.500000 L=2.404e+02 LPDE=2.406e+00 Lnorm=7.932e-01 integral=0.109386 lam=300.0
+n=19 ep=4000 E=17.651173 L=2.354e+00 LPDE=2.347e+00 Lnorm=2.205e-05 integral=0.995304 lam=300.0
+n=19 ep=8000 E=17.079428 L=1.526e+00 LPDE=1.523e+00 Lnorm=9.641e-06 integral=0.996895 lam=300.0
+n=19 ep=12000 E=16.531399 L=1.388e+00 LPDE=1.387e+00 Lnorm=2.527e-06 integral=0.998410 lam=300.0
+n=19 ep=16000 E=16.062824 L=1.260e+00 LPDE=1.254e+00 Lnorm=7.471e-05 integral=0.991357 lam=80.0
+n=19 ep=20000 E=15.867240 L=1.170e+00 LPDE=1.165e+00 Lnorm=6.756e-05 integral=0.991780 lam=80.0
+
+===== n=20 seed=20 =====
+Usando device: cuda
+n=20 ep=1 E=19.500000 L=2.947e+02 LPDE=2.275e-01 Lnorm=9.816e-01 integral=0.009255 lam=300.0
+n=20 ep=4000 E=18.762205 L=2.210e+01 LPDE=2.178e+01 Lnorm=1.064e-03 integral=0.967381 lam=300.0
+n=20 ep=8000 E=18.089769 L=2.047e+01 LPDE=1.960e+01 Lnorm=2.911e-03 integral=0.946050 lam=300.0
+n=20 ep=12000 E=17.551830 L=1.905e+01 LPDE=1.890e+01 Lnorm=4.963e-04 integral=0.977721 lam=300.0
+n=20 ep=16000 E=17.202686 L=1.253e+00 LPDE=1.248e+00 Lnorm=6.799e-05 integral=0.991754 lam=80.0
+n=20 ep=20000 E=17.022184 L=1.158e+00 LPDE=1.153e+00 Lnorm=5.519e-05 integral=0.992571 lam=80.0
+
+--- Seed 1 ---
+
+===== n=1 seed=101 =====
+Usando device: cuda
+n=1 ep=1 E=0.500000 L=3.202e+01 LPDE=3.122e-02 Lnorm=7.998e-01 integral=0.105702 lam=40.0
+n=1 ep=1600 E=0.721789 L=1.387e-02 LPDE=1.081e-02 Lnorm=7.652e-05 integral=0.991253 lam=40.0
+n=1 ep=3200 E=0.750886 L=1.626e-02 LPDE=1.050e-02 Lnorm=1.441e-04 integral=0.987997 lam=40.0
+n=1 ep=4800 E=0.750439 L=1.057e-02 LPDE=1.050e-02 Lnorm=1.631e-06 integral=0.998723 lam=40.0
+n=1 ep=6400 E=0.718847 L=3.180e-03 LPDE=3.126e-03 Lnorm=5.377e-06 integral=0.997681 lam=10.0
+n=1 ep=8000 E=0.714098 L=2.112e-03 LPDE=2.112e-03 Lnorm=2.023e-08 integral=0.999858 lam=10.0
+
+===== n=2 seed=102 =====
+Usando device: cuda
+n=2 ep=1 E=1.500000 L=3.867e+01 LPDE=5.355e-03 Lnorm=9.667e-01 integral=0.016796 lam=40.0
+n=2 ep=2000 E=2.145872 L=1.940e-02 LPDE=1.787e-02 Lnorm=3.841e-05 integral=1.006198 lam=40.0
+n=2 ep=4000 E=2.162664 L=1.160e-02 LPDE=1.049e-02 Lnorm=2.783e-05 integral=0.994725 lam=40.0
+n=2 ep=6000 E=2.157348 L=1.198e-02 LPDE=9.723e-03 Lnorm=5.650e-05 integral=1.007517 lam=40.0
+n=2 ep=8000 E=2.145769 L=7.212e-03 LPDE=7.210e-03 Lnorm=9.321e-08 integral=0.999695 lam=15.0
+n=2 ep=10000 E=2.140684 L=6.015e-03 LPDE=6.014e-03 Lnorm=5.816e-08 integral=0.999759 lam=15.0
+
+===== n=3 seed=103 =====
+Usando device: cuda
+n=3 ep=1 E=2.500000 L=2.982e+02 LPDE=1.687e-04 Lnorm=9.939e-01 integral=0.003054 lam=300.0
+n=3 ep=3000 E=2.265826 L=8.726e-02 LPDE=3.476e-02 Lnorm=1.750e-04 integral=0.986771 lam=300.0
+n=3 ep=6000 E=2.263292 L=1.578e-01 LPDE=3.532e-02 Lnorm=4.084e-04 integral=1.020209 lam=300.0
+n=3 ep=9000 E=2.261592 L=3.423e-02 LPDE=3.414e-02 Lnorm=3.062e-07 integral=0.999447 lam=300.0
+n=3 ep=12000 E=2.255636 L=3.355e-02 LPDE=3.276e-02 Lnorm=9.946e-06 integral=1.003154 lam=80.0
+n=3 ep=15000 E=2.171486 L=1.323e-02 LPDE=1.323e-02 Lnorm=1.083e-08 integral=0.999896 lam=80.0
+
+===== n=4 seed=104 =====
+Usando device: cuda
+n=4 ep=1 E=3.500000 L=2.988e+02 LPDE=6.413e-04 Lnorm=9.962e-01 integral=0.001920 lam=300.0
+n=4 ep=4000 E=2.781758 L=5.605e-02 LPDE=5.603e-02 Lnorm=5.404e-08 integral=1.000232 lam=300.0
+n=4 ep=8000 E=2.403449 L=3.407e-02 LPDE=3.390e-02 Lnorm=5.683e-07 integral=0.999246 lam=300.0
+n=4 ep=12000 E=2.252378 L=3.255e-02 LPDE=3.141e-02 Lnorm=3.795e-06 integral=0.998052 lam=300.0
+n=4 ep=16000 E=2.163652 L=9.694e-03 LPDE=9.693e-03 Lnorm=9.186e-09 integral=0.999904 lam=80.0
+n=4 ep=20000 E=2.138967 L=5.725e-03 LPDE=5.725e-03 Lnorm=1.771e-09 integral=0.999958 lam=80.0
+
+===== n=5 seed=105 =====
+Usando device: cuda
+n=5 ep=1 E=4.500000 L=2.998e+02 LPDE=1.768e-04 Lnorm=9.992e-01 integral=0.000384 lam=300.0
+n=5 ep=4000 E=3.758435 L=2.337e-01 LPDE=2.194e-01 Lnorm=4.756e-05 integral=0.993103 lam=300.0
+n=5 ep=8000 E=3.177448 L=1.130e-01 LPDE=1.055e-01 Lnorm=2.495e-05 integral=1.004995 lam=300.0
+n=5 ep=12000 E=2.770027 L=5.649e-02 LPDE=5.625e-02 Lnorm=7.892e-07 integral=0.999112 lam=300.0
+n=5 ep=16000 E=2.417271 L=2.825e-02 LPDE=2.771e-02 Lnorm=6.736e-06 integral=1.002595 lam=80.0
+n=5 ep=20000 E=2.252653 L=1.335e-02 LPDE=1.335e-02 Lnorm=1.190e-08 integral=0.999891 lam=80.0
+
+===== n=6 seed=106 =====
+Usando device: cuda
+n=6 ep=1 E=5.500000 L=2.727e+02 LPDE=4.832e-02 Lnorm=9.087e-01 integral=0.046737 lam=300.0
+n=6 ep=4000 E=4.573782 L=4.626e-01 LPDE=4.614e-01 Lnorm=3.804e-06 integral=0.998049 lam=300.0
+n=6 ep=8000 E=3.815488 L=2.371e-01 LPDE=2.366e-01 Lnorm=1.620e-06 integral=0.998727 lam=300.0
+n=6 ep=12000 E=3.181815 L=1.053e-01 LPDE=1.050e-01 Lnorm=8.546e-07 integral=0.999076 lam=300.0
+n=6 ep=16000 E=2.736638 L=5.096e-02 LPDE=5.096e-02 Lnorm=6.658e-09 integral=0.999918 lam=80.0
+n=6 ep=20000 E=2.550743 L=2.312e-02 LPDE=2.311e-02 Lnorm=2.580e-08 integral=0.999839 lam=80.0
+
+===== n=7 seed=107 =====
+Usando device: cuda
+n=7 ep=1 E=6.500000 L=2.999e+02 LPDE=3.556e-04 Lnorm=9.995e-01 integral=0.000231 lam=300.0
+n=7 ep=4000 E=5.458708 L=8.548e-01 LPDE=8.161e-01 Lnorm=1.290e-04 integral=1.011360 lam=300.0
+n=7 ep=8000 E=5.142268 L=2.483e-01 LPDE=2.477e-01 Lnorm=1.891e-06 integral=1.001375 lam=300.0
+n=7 ep=12000 E=4.757289 L=1.768e-01 LPDE=1.755e-01 Lnorm=4.372e-06 integral=0.997909 lam=300.0
+n=7 ep=16000 E=4.324463 L=1.170e-01 LPDE=1.167e-01 Lnorm=2.987e-06 integral=0.998272 lam=80.0
+n=7 ep=20000 E=4.130220 L=9.626e-02 LPDE=9.622e-02 Lnorm=4.171e-07 integral=0.999354 lam=80.0
+
+===== n=8 seed=108 =====
+Usando device: cuda
+n=8 ep=1 E=7.500000 L=2.953e+02 LPDE=1.890e-02 Lnorm=9.843e-01 integral=0.007903 lam=300.0
+n=8 ep=4000 E=6.534436 L=2.613e-01 LPDE=2.605e-01 Lnorm=2.623e-06 integral=0.998381 lam=300.0
+n=8 ep=8000 E=6.121259 L=1.935e-01 LPDE=1.896e-01 Lnorm=1.308e-05 integral=0.996383 lam=300.0
+n=8 ep=12000 E=5.764924 L=1.582e-01 LPDE=1.581e-01 Lnorm=4.508e-07 integral=1.000671 lam=300.0
+n=8 ep=16000 E=5.445425 L=9.516e-02 LPDE=9.514e-02 Lnorm=2.354e-07 integral=0.999515 lam=80.0
+n=8 ep=20000 E=5.204434 L=5.095e-02 LPDE=5.092e-02 Lnorm=3.677e-07 integral=0.999394 lam=80.0
+
+===== n=9 seed=109 =====
+Usando device: cuda
+n=9 ep=1 E=8.500000 L=2.935e+02 LPDE=3.565e-02 Lnorm=9.783e-01 integral=0.010925 lam=300.0
+n=9 ep=4000 E=7.765411 L=5.302e-01 LPDE=5.257e-01 Lnorm=1.495e-05 integral=0.996133 lam=300.0
+n=9 ep=8000 E=7.243183 L=4.041e-01 LPDE=4.035e-01 Lnorm=2.294e-06 integral=0.998485 lam=300.0
+n=9 ep=12000 E=6.819821 L=3.367e-01 LPDE=3.243e-01 Lnorm=4.129e-05 integral=0.993575 lam=300.0
+n=9 ep=16000 E=6.380946 L=2.525e-01 LPDE=2.522e-01 Lnorm=3.875e-06 integral=0.998031 lam=80.0
+n=9 ep=20000 E=6.169586 L=2.189e-01 LPDE=2.187e-01 Lnorm=2.691e-06 integral=0.998360 lam=80.0
+
+===== n=10 seed=110 =====
+Usando device: cuda
+n=10 ep=1 E=9.500001 L=2.478e+02 LPDE=4.077e-01 Lnorm=8.245e-01 integral=0.091979 lam=300.0
+n=10 ep=4000 E=8.330676 L=2.316e+00 LPDE=2.316e+00 Lnorm=1.574e-07 integral=1.000397 lam=300.0
+n=10 ep=8000 E=7.660880 L=4.009e-01 LPDE=4.009e-01 Lnorm=1.552e-07 integral=0.999606 lam=300.0
+n=10 ep=12000 E=7.077879 L=3.080e-01 LPDE=3.078e-01 Lnorm=7.186e-07 integral=0.999152 lam=300.0
+n=10 ep=16000 E=6.611169 L=2.207e-01 LPDE=2.205e-01 Lnorm=2.055e-06 integral=0.998567 lam=80.0
+n=10 ep=20000 E=6.381840 L=1.751e-01 LPDE=1.750e-01 Lnorm=1.304e-06 integral=0.998858 lam=80.0
+
+===== n=11 seed=111 =====
+Usando device: cuda
+n=11 ep=1 E=10.500000 L=2.929e+02 LPDE=6.812e-02 Lnorm=9.762e-01 integral=0.011965 lam=300.0
+n=11 ep=4000 E=9.775093 L=4.737e+00 LPDE=4.590e+00 Lnorm=4.913e-04 integral=0.977834 lam=300.0
+n=11 ep=8000 E=9.078318 L=8.283e-01 LPDE=8.274e-01 Lnorm=2.971e-06 integral=0.998276 lam=300.0
+n=11 ep=12000 E=8.665931 L=6.815e-01 LPDE=6.812e-01 Lnorm=7.394e-07 integral=0.999140 lam=300.0
+n=11 ep=16000 E=8.375885 L=4.528e-01 LPDE=4.519e-01 Lnorm=1.235e-05 integral=0.996486 lam=80.0
+n=11 ep=20000 E=8.143463 L=3.889e-01 LPDE=3.883e-01 Lnorm=8.562e-06 integral=0.997074 lam=80.0
+
+===== n=12 seed=112 =====
+Usando device: cuda
+n=12 ep=1 E=11.500000 L=2.917e+02 LPDE=1.003e-01 Lnorm=9.720e-01 integral=0.014098 lam=300.0
+n=12 ep=4000 E=10.829352 L=6.287e+00 LPDE=5.933e+00 Lnorm=1.180e-03 integral=0.965648 lam=300.0
+n=12 ep=8000 E=10.193124 L=5.342e+00 LPDE=5.150e+00 Lnorm=6.402e-04 integral=0.974698 lam=300.0
+n=12 ep=12000 E=9.639865 L=4.613e+00 LPDE=4.504e+00 Lnorm=3.618e-04 integral=0.980978 lam=300.0
+n=12 ep=16000 E=9.287700 L=6.347e-01 LPDE=6.332e-01 Lnorm=1.875e-05 integral=0.995669 lam=80.0
+n=12 ep=20000 E=9.346596 L=4.794e-01 LPDE=4.784e-01 Lnorm=1.169e-05 integral=0.996582 lam=80.0
+
+===== n=13 seed=113 =====
+Usando device: cuda
+n=13 ep=1 E=12.500000 L=2.943e+02 LPDE=8.511e-02 Lnorm=9.807e-01 integral=0.009708 lam=300.0
+n=13 ep=4000 E=11.814949 L=9.740e-01 LPDE=9.733e-01 Lnorm=2.355e-06 integral=0.998465 lam=300.0
+n=13 ep=8000 E=11.343344 L=7.836e-01 LPDE=7.652e-01 Lnorm=6.121e-05 integral=0.992176 lam=300.0
+n=13 ep=12000 E=10.876096 L=6.978e-01 LPDE=6.976e-01 Lnorm=5.640e-07 integral=1.000751 lam=300.0
+n=13 ep=16000 E=10.458345 L=6.151e-01 LPDE=6.134e-01 Lnorm=2.123e-05 integral=0.995392 lam=80.0
+n=13 ep=20000 E=10.241449 L=5.622e-01 LPDE=5.608e-01 Lnorm=1.719e-05 integral=0.995854 lam=80.0
+
+===== n=14 seed=114 =====
+Usando device: cuda
+n=14 ep=1 E=13.500000 L=2.965e+02 LPDE=6.297e-02 Lnorm=9.880e-01 integral=0.006008 lam=300.0
+n=14 ep=4000 E=12.373817 L=8.448e+00 LPDE=8.362e+00 Lnorm=2.850e-04 integral=0.983119 lam=300.0
+n=14 ep=8000 E=11.559566 L=4.163e+00 LPDE=4.141e+00 Lnorm=7.253e-05 integral=0.991483 lam=300.0
+n=14 ep=12000 E=10.947236 L=4.954e-01 LPDE=4.951e-01 Lnorm=1.156e-06 integral=0.998925 lam=300.0
+n=14 ep=16000 E=10.518251 L=4.145e-01 LPDE=4.139e-01 Lnorm=7.505e-06 integral=0.997260 lam=80.0
+n=14 ep=20000 E=10.286081 L=3.692e-01 LPDE=3.688e-01 Lnorm=5.299e-06 integral=0.997698 lam=80.0
+
+===== n=15 seed=115 =====
+Usando device: cuda
+n=15 ep=1 E=14.500000 L=2.959e+02 LPDE=8.752e-02 Lnorm=9.861e-01 integral=0.006994 lam=300.0
+n=15 ep=4000 E=13.787643 L=1.122e+01 LPDE=1.119e+01 Lnorm=1.004e-04 integral=1.010018 lam=300.0
+n=15 ep=8000 E=13.155320 L=1.201e+00 LPDE=1.200e+00 Lnorm=4.186e-06 integral=0.997954 lam=300.0
+n=15 ep=12000 E=12.678323 L=9.794e-01 LPDE=9.794e-01 Lnorm=4.843e-08 integral=1.000220 lam=300.0
+n=15 ep=16000 E=12.199636 L=8.518e-01 LPDE=8.493e-01 Lnorm=3.056e-05 integral=0.994472 lam=80.0
+n=15 ep=20000 E=11.966622 L=7.895e-01 LPDE=7.874e-01 Lnorm=2.652e-05 integral=0.994850 lam=80.0
+
+===== n=16 seed=116 =====
+Usando device: cuda
+n=16 ep=1 E=15.500000 L=2.994e+02 LPDE=1.460e-02 Lnorm=9.980e-01 integral=0.001005 lam=300.0
+n=16 ep=4000 E=14.758405 L=1.285e+01 LPDE=1.250e+01 Lnorm=1.193e-03 integral=0.965462 lam=300.0
+n=16 ep=8000 E=14.019489 L=1.138e+01 LPDE=1.114e+01 Lnorm=8.104e-04 integral=0.971532 lam=300.0
+n=16 ep=12000 E=13.427562 L=1.027e+01 LPDE=1.010e+01 Lnorm=5.607e-04 integral=0.976320 lam=300.0
+n=16 ep=16000 E=13.015988 L=9.880e-01 LPDE=9.848e-01 Lnorm=3.978e-05 integral=0.993693 lam=80.0
+n=16 ep=20000 E=12.845312 L=8.944e-01 LPDE=8.918e-01 Lnorm=3.325e-05 integral=0.994234 lam=80.0
+
+===== n=17 seed=117 =====
+Usando device: cuda
+n=17 ep=1 E=16.500000 L=2.719e+02 LPDE=8.378e-01 Lnorm=9.034e-01 integral=0.049508 lam=300.0
+n=17 ep=4000 E=15.640619 L=1.548e+00 LPDE=1.539e+00 Lnorm=2.788e-05 integral=0.994720 lam=300.0
+n=17 ep=8000 E=15.122647 L=1.266e+00 LPDE=1.263e+00 Lnorm=1.262e-05 integral=0.996447 lam=300.0
+n=17 ep=12000 E=14.662819 L=1.180e+00 LPDE=1.178e+00 Lnorm=8.894e-06 integral=0.997018 lam=300.0
+n=17 ep=16000 E=14.127978 L=1.035e+00 LPDE=1.031e+00 Lnorm=5.343e-05 integral=0.992690 lam=80.0
+n=17 ep=20000 E=13.893557 L=9.534e-01 LPDE=9.499e-01 Lnorm=4.454e-05 integral=0.993326 lam=80.0
+
+===== n=18 seed=118 =====
+Usando device: cuda
+n=18 ep=1 E=17.500000 L=2.960e+02 LPDE=1.338e-01 Lnorm=9.861e-01 integral=0.006955 lam=300.0
+n=18 ep=4000 E=16.436363 L=1.641e+01 LPDE=1.627e+01 Lnorm=4.638e-04 integral=0.978463 lam=300.0
+n=18 ep=8000 E=15.526763 L=3.714e+00 LPDE=3.684e+00 Lnorm=1.004e-04 integral=0.989979 lam=300.0
+n=18 ep=12000 E=15.149142 L=8.651e-01 LPDE=8.649e-01 Lnorm=5.030e-07 integral=0.999291 lam=300.0
+n=18 ep=16000 E=14.692606 L=6.740e-01 LPDE=6.720e-01 Lnorm=2.498e-05 integral=0.995002 lam=80.0
+n=18 ep=20000 E=14.445621 L=5.700e-01 LPDE=5.687e-01 Lnorm=1.593e-05 integral=0.996008 lam=80.0
+
+===== n=19 seed=119 =====
+Usando device: cuda
+n=19 ep=1 E=18.500000 L=2.878e+02 LPDE=4.712e-01 Lnorm=9.576e-01 integral=0.021430 lam=300.0
+n=19 ep=4000 E=17.729095 L=1.689e+00 LPDE=1.686e+00 Lnorm=1.095e-05 integral=0.996690 lam=300.0
+n=19 ep=8000 E=17.117903 L=1.481e+00 LPDE=1.476e+00 Lnorm=1.720e-05 integral=0.995853 lam=300.0
+n=19 ep=12000 E=16.583549 L=1.363e+00 LPDE=1.362e+00 Lnorm=1.975e-06 integral=0.998595 lam=300.0
+n=19 ep=16000 E=16.108988 L=1.244e+00 LPDE=1.238e+00 Lnorm=7.505e-05 integral=0.991337 lam=80.0
+n=19 ep=20000 E=15.911530 L=1.164e+00 LPDE=1.159e+00 Lnorm=6.684e-05 integral=0.991824 lam=80.0
+
+===== n=20 seed=120 =====
+Usando device: cuda
+n=20 ep=1 E=19.500000 L=2.880e+02 LPDE=5.172e-01 Lnorm=9.584e-01 integral=0.021039 lam=300.0
+n=20 ep=4000 E=18.518003 L=2.150e+01 LPDE=2.132e+01 Lnorm=5.991e-04 integral=0.975523 lam=300.0
+n=20 ep=8000 E=17.604921 L=1.915e+01 LPDE=1.875e+01 Lnorm=1.340e-03 integral=0.963390 lam=300.0
+n=20 ep=12000 E=17.021824 L=1.329e+00 LPDE=1.328e+00 Lnorm=5.210e-06 integral=0.997717 lam=300.0
+n=20 ep=16000 E=16.581242 L=9.407e-01 LPDE=9.374e-01 Lnorm=4.084e-05 integral=0.993610 lam=80.0
+n=20 ep=20000 E=16.344091 L=8.705e-01 LPDE=8.680e-01 Lnorm=3.184e-05 integral=0.994357 lam=80.0
+
+--- Seed 2 ---
+
+===== n=1 seed=201 =====
+Usando device: cuda
+n=1 ep=1 E=0.500000 L=3.811e+01 LPDE=7.202e-03 Lnorm=9.526e-01 integral=0.023975 lam=40.0
+n=1 ep=1600 E=0.724782 L=1.865e-02 LPDE=1.114e-02 Lnorm=1.878e-04 integral=1.013705 lam=40.0
+n=1 ep=3200 E=0.750643 L=1.059e-02 LPDE=1.054e-02 Lnorm=1.157e-06 integral=1.001076 lam=40.0
+n=1 ep=4800 E=0.744239 L=9.620e-03 LPDE=8.464e-03 Lnorm=2.890e-05 integral=1.005376 lam=40.0
+n=1 ep=6400 E=0.717270 L=2.851e-03 LPDE=2.851e-03 Lnorm=1.211e-08 integral=0.999890 lam=10.0
+n=1 ep=8000 E=0.714305 L=2.163e-03 LPDE=2.163e-03 Lnorm=2.288e-08 integral=0.999849 lam=10.0
+
+===== n=2 seed=202 =====
+Usando device: cuda
+n=2 ep=1 E=1.500000 L=3.265e+01 LPDE=3.122e-02 Lnorm=8.154e-01 integral=0.096998 lam=40.0
+n=2 ep=2000 E=2.192758 L=3.205e-02 LPDE=3.204e-02 Lnorm=2.007e-07 integral=0.999552 lam=40.0
+n=2 ep=4000 E=2.244464 L=2.970e-02 LPDE=2.943e-02 Lnorm=6.703e-06 integral=1.002589 lam=40.0
+n=2 ep=6000 E=2.167011 L=1.811e-02 LPDE=1.096e-02 Lnorm=1.789e-04 integral=0.986626 lam=40.0
+n=2 ep=8000 E=2.148504 L=7.653e-03 LPDE=7.651e-03 Lnorm=1.126e-07 integral=0.999664 lam=15.0
+n=2 ep=10000 E=2.138839 L=5.340e-03 LPDE=5.339e-03 Lnorm=5.125e-08 integral=0.999774 lam=15.0
+
+===== n=3 seed=203 =====
+Usando device: cuda
+n=3 ep=1 E=2.500000 L=2.945e+02 LPDE=4.123e-04 Lnorm=9.815e-01 integral=0.009272 lam=300.0
+n=3 ep=3000 E=2.266713 L=4.932e-01 LPDE=3.676e-02 Lnorm=1.522e-03 integral=1.039007 lam=300.0
+n=3 ep=6000 E=2.263072 L=5.280e-02 LPDE=3.482e-02 Lnorm=5.992e-05 integral=1.007741 lam=300.0
+n=3 ep=9000 E=2.261574 L=4.203e-02 LPDE=3.397e-02 Lnorm=2.687e-05 integral=0.994816 lam=300.0
+n=3 ep=12000 E=2.256720 L=3.365e-02 LPDE=3.302e-02 Lnorm=7.871e-06 integral=1.002805 lam=80.0
+n=3 ep=15000 E=2.187222 L=1.647e-02 LPDE=1.647e-02 Lnorm=1.668e-08 integral=0.999871 lam=80.0
+
+===== n=4 seed=204 =====
+Usando device: cuda
+n=4 ep=1 E=3.500000 L=2.338e+02 LPDE=4.096e-02 Lnorm=7.793e-01 integral=0.117234 lam=300.0
+n=4 ep=4000 E=2.836428 L=7.233e-02 LPDE=6.131e-02 Lnorm=3.673e-05 integral=0.993940 lam=300.0
+n=4 ep=8000 E=2.422165 L=4.107e-02 LPDE=3.488e-02 Lnorm=2.062e-05 integral=1.004541 lam=300.0
+n=4 ep=12000 E=2.252307 L=3.258e-02 LPDE=3.143e-02 Lnorm=3.835e-06 integral=0.998042 lam=300.0
+n=4 ep=16000 E=2.176627 L=1.361e-02 LPDE=1.360e-02 Lnorm=1.151e-08 integral=0.999893 lam=80.0
+n=4 ep=20000 E=2.154464 L=8.960e-03 LPDE=8.960e-03 Lnorm=6.943e-09 integral=0.999917 lam=80.0
+
+===== n=5 seed=205 =====
+Usando device: cuda
+n=5 ep=1 E=4.500000 L=1.883e+02 LPDE=9.382e-02 Lnorm=6.273e-01 integral=0.207988 lam=300.0
+n=5 ep=4000 E=3.763820 L=2.231e-01 LPDE=2.225e-01 Lnorm=1.957e-06 integral=1.001399 lam=300.0
+n=5 ep=8000 E=3.166578 L=1.286e-01 LPDE=1.038e-01 Lnorm=8.244e-05 integral=1.009079 lam=300.0
+n=5 ep=12000 E=2.752706 L=5.918e-02 LPDE=5.487e-02 Lnorm=1.437e-05 integral=1.003790 lam=300.0
+n=5 ep=16000 E=2.390784 L=3.448e-02 LPDE=3.444e-02 Lnorm=5.050e-07 integral=0.999289 lam=80.0
+n=5 ep=20000 E=2.237144 L=1.544e-02 LPDE=1.544e-02 Lnorm=2.139e-09 integral=0.999954 lam=80.0
+
+===== n=6 seed=206 =====
+Usando device: cuda
+n=6 ep=1 E=5.500000 L=2.991e+02 LPDE=1.611e-03 Lnorm=9.969e-01 integral=0.001576 lam=300.0
+n=6 ep=4000 E=4.560781 L=4.689e-01 LPDE=4.689e-01 Lnorm=9.755e-08 integral=1.000312 lam=300.0
+n=6 ep=8000 E=3.831285 L=2.412e-01 LPDE=2.410e-01 Lnorm=6.235e-07 integral=1.000790 lam=300.0
+n=6 ep=12000 E=3.186180 L=1.062e-01 LPDE=1.062e-01 Lnorm=1.777e-07 integral=1.000422 lam=300.0
+n=6 ep=16000 E=2.748304 L=5.213e-02 LPDE=5.211e-02 Lnorm=2.344e-07 integral=0.999516 lam=80.0
+n=6 ep=20000 E=2.556003 L=2.446e-02 LPDE=2.446e-02 Lnorm=2.426e-08 integral=0.999844 lam=80.0
+
+===== n=7 seed=207 =====
+Usando device: cuda
+n=7 ep=1 E=6.500000 L=3.000e+02 LPDE=3.702e-05 Lnorm=1.000e+00 integral=0.000024 lam=300.0
+n=7 ep=4000 E=5.753729 L=1.078e+00 LPDE=1.032e+00 Lnorm=1.537e-04 integral=0.987601 lam=300.0
+n=7 ep=8000 E=5.088560 L=6.549e-01 LPDE=6.518e-01 Lnorm=1.043e-05 integral=0.996771 lam=300.0
+n=7 ep=12000 E=4.834702 L=3.144e-01 LPDE=3.143e-01 Lnorm=1.732e-08 integral=1.000132 lam=300.0
+n=7 ep=16000 E=4.413225 L=1.253e-01 LPDE=1.252e-01 Lnorm=9.861e-07 integral=0.999007 lam=80.0
+n=7 ep=20000 E=4.206358 L=8.980e-02 LPDE=8.977e-02 Lnorm=4.109e-07 integral=0.999359 lam=80.0
+
+===== n=8 seed=208 =====
+Usando device: cuda
+n=8 ep=1 E=7.500000 L=2.940e+02 LPDE=2.402e-02 Lnorm=9.800e-01 integral=0.010048 lam=300.0
+n=8 ep=4000 E=6.694287 L=1.543e+00 LPDE=1.535e+00 Lnorm=2.644e-05 integral=0.994858 lam=300.0
+n=8 ep=8000 E=6.210861 L=2.086e-01 LPDE=2.072e-01 Lnorm=4.539e-06 integral=0.997869 lam=300.0
+n=8 ep=12000 E=5.844841 L=1.702e-01 LPDE=1.665e-01 Lnorm=1.221e-05 integral=0.996505 lam=300.0
+n=8 ep=16000 E=5.466867 L=8.153e-02 LPDE=8.147e-02 Lnorm=7.079e-07 integral=0.999159 lam=80.0
+n=8 ep=20000 E=5.226361 L=4.171e-02 LPDE=4.170e-02 Lnorm=1.465e-07 integral=0.999617 lam=80.0
+
+===== n=9 seed=209 =====
+Usando device: cuda
+n=9 ep=1 E=8.500000 L=2.666e+02 LPDE=1.891e-01 Lnorm=8.879e-01 integral=0.057699 lam=300.0
+n=9 ep=4000 E=7.765063 L=2.655e+00 LPDE=2.589e+00 Lnorm=2.202e-04 integral=1.014839 lam=300.0
+n=9 ep=8000 E=6.969410 L=1.903e+00 LPDE=1.884e+00 Lnorm=6.272e-05 integral=1.007920 lam=300.0
+n=9 ep=12000 E=6.365413 L=1.286e+00 LPDE=1.286e+00 Lnorm=8.058e-07 integral=0.999102 lam=300.0
+n=9 ep=16000 E=6.115587 L=2.369e-01 LPDE=2.367e-01 Lnorm=3.207e-06 integral=0.998209 lam=80.0
+n=9 ep=20000 E=5.924705 L=2.035e-01 LPDE=2.033e-01 Lnorm=2.319e-06 integral=0.998477 lam=80.0
+
+===== n=10 seed=210 =====
+Usando device: cuda
+n=10 ep=1 E=9.500001 L=2.499e+02 LPDE=3.899e-01 Lnorm=8.319e-01 integral=0.087937 lam=300.0
+n=10 ep=4000 E=8.634232 L=3.535e+00 LPDE=3.503e+00 Lnorm=1.055e-04 integral=1.010273 lam=300.0
+n=10 ep=8000 E=7.819529 L=2.671e+00 LPDE=2.654e+00 Lnorm=5.816e-05 integral=0.992373 lam=300.0
+n=10 ep=12000 E=7.210778 L=1.848e+00 LPDE=1.848e+00 Lnorm=1.930e-06 integral=1.001389 lam=300.0
+n=10 ep=16000 E=6.826871 L=9.580e-01 LPDE=9.511e-01 Lnorm=8.676e-05 integral=0.990686 lam=80.0
+n=10 ep=20000 E=6.594315 L=2.460e-01 LPDE=2.458e-01 Lnorm=2.818e-06 integral=0.998321 lam=80.0
+
+===== n=11 seed=211 =====
+Usando device: cuda
+n=11 ep=1 E=10.500000 L=2.748e+02 LPDE=2.462e-01 Lnorm=9.153e-01 integral=0.043303 lam=300.0
+n=11 ep=4000 E=9.575851 L=4.559e+00 LPDE=4.525e+00 Lnorm=1.125e-04 integral=1.010605 lam=300.0
+n=11 ep=8000 E=8.776077 L=2.392e+00 LPDE=2.368e+00 Lnorm=8.032e-05 integral=0.991038 lam=300.0
+n=11 ep=12000 E=8.261180 L=6.476e-01 LPDE=6.447e-01 Lnorm=9.605e-06 integral=1.003099 lam=300.0
+n=11 ep=16000 E=7.786531 L=5.160e-01 LPDE=5.151e-01 Lnorm=1.090e-05 integral=0.996699 lam=80.0
+n=11 ep=20000 E=7.557243 L=4.572e-01 LPDE=4.565e-01 Lnorm=8.534e-06 integral=0.997079 lam=80.0
+
+===== n=12 seed=212 =====
+Usando device: cuda
+n=12 ep=1 E=11.500000 L=3.000e+02 LPDE=2.075e-04 Lnorm=9.999e-01 integral=0.000032 lam=300.0
+n=12 ep=4000 E=10.477840 L=5.163e+00 LPDE=5.152e+00 Lnorm=3.634e-05 integral=0.993972 lam=300.0
+n=12 ep=8000 E=10.070521 L=5.141e-01 LPDE=5.129e-01 Lnorm=3.750e-06 integral=0.998063 lam=300.0
+n=12 ep=12000 E=9.696532 L=4.583e-01 LPDE=4.579e-01 Lnorm=1.324e-06 integral=0.998849 lam=300.0
+n=12 ep=16000 E=9.521250 L=4.173e-01 LPDE=4.166e-01 Lnorm=9.432e-06 integral=0.996929 lam=80.0
+n=12 ep=20000 E=9.414278 L=3.889e-01 LPDE=3.882e-01 Lnorm=7.969e-06 integral=0.997177 lam=80.0
+
+===== n=13 seed=213 =====
+Usando device: cuda
+n=13 ep=1 E=12.500000 L=2.940e+02 LPDE=8.987e-02 Lnorm=9.796e-01 integral=0.010262 lam=300.0
+n=13 ep=4000 E=11.914326 L=8.880e-01 LPDE=8.878e-01 Lnorm=6.008e-07 integral=1.000775 lam=300.0
+n=13 ep=8000 E=11.369613 L=7.585e-01 LPDE=7.567e-01 Lnorm=6.062e-06 integral=0.997538 lam=300.0
+n=13 ep=12000 E=10.923447 L=6.987e-01 LPDE=6.950e-01 Lnorm=1.227e-05 integral=1.003502 lam=300.0
+n=13 ep=16000 E=10.500712 L=6.127e-01 LPDE=6.109e-01 Lnorm=2.215e-05 integral=0.995293 lam=80.0
+n=13 ep=20000 E=10.282312 L=5.613e-01 LPDE=5.599e-01 Lnorm=1.691e-05 integral=0.995888 lam=80.0
+
+===== n=14 seed=214 =====
+Usando device: cuda
+n=14 ep=1 E=13.500000 L=2.677e+02 LPDE=5.910e-01 Lnorm=8.904e-01 integral=0.056368 lam=300.0
+n=14 ep=4000 E=12.546640 L=8.740e+00 LPDE=8.712e+00 Lnorm=9.232e-05 integral=0.990392 lam=300.0
+n=14 ep=8000 E=11.630616 L=7.272e+00 LPDE=7.252e+00 Lnorm=6.750e-05 integral=0.991784 lam=300.0
+n=14 ep=12000 E=11.011545 L=2.389e+00 LPDE=2.371e+00 Lnorm=6.172e-05 integral=0.992144 lam=300.0
+n=14 ep=16000 E=10.599086 L=4.341e-01 LPDE=4.333e-01 Lnorm=9.331e-06 integral=0.996945 lam=80.0
+n=14 ep=20000 E=10.360623 L=3.812e-01 LPDE=3.807e-01 Lnorm=5.714e-06 integral=0.997610 lam=80.0
+
+===== n=15 seed=215 =====
+Usando device: cuda
+n=15 ep=1 E=14.500000 L=2.933e+02 LPDE=1.434e-01 Lnorm=9.771e-01 integral=0.011492 lam=300.0
+n=15 ep=4000 E=13.645908 L=1.200e+00 LPDE=1.200e+00 Lnorm=2.225e-06 integral=1.001492 lam=300.0
+n=15 ep=8000 E=12.965310 L=1.024e+00 LPDE=1.024e+00 Lnorm=8.902e-07 integral=0.999057 lam=300.0
+n=15 ep=12000 E=12.416429 L=9.065e-01 LPDE=9.044e-01 Lnorm=7.293e-06 integral=0.997299 lam=300.0
+n=15 ep=16000 E=11.947949 L=7.975e-01 LPDE=7.952e-01 Lnorm=2.869e-05 integral=0.994644 lam=80.0
+n=15 ep=20000 E=11.716454 L=7.399e-01 LPDE=7.380e-01 Lnorm=2.431e-05 integral=0.995070 lam=80.0
+
+===== n=16 seed=216 =====
+Usando device: cuda
+n=16 ep=1 E=15.500000 L=2.521e+02 LPDE=1.242e+00 Lnorm=8.361e-01 integral=0.085591 lam=300.0
+n=16 ep=4000 E=14.848049 L=1.324e+01 LPDE=1.245e+01 Lnorm=2.635e-03 integral=0.948669 lam=300.0
+n=16 ep=8000 E=14.198927 L=1.170e+01 LPDE=1.156e+01 Lnorm=4.809e-04 integral=0.978071 lam=300.0
+n=16 ep=12000 E=13.697474 L=1.077e+01 LPDE=1.073e+01 Lnorm=1.143e-04 integral=0.989311 lam=300.0
+n=16 ep=16000 E=13.330369 L=1.037e+00 LPDE=1.033e+00 Lnorm=4.263e-05 integral=0.993471 lam=80.0
+n=16 ep=20000 E=13.152181 L=7.868e-01 LPDE=7.846e-01 Lnorm=2.821e-05 integral=0.994689 lam=80.0
+
+===== n=17 seed=217 =====
+Usando device: cuda
+n=17 ep=1 E=16.500000 L=2.871e+02 LPDE=3.777e-01 Lnorm=9.558e-01 integral=0.022329 lam=300.0
+n=17 ep=4000 E=15.680401 L=1.541e+00 LPDE=1.538e+00 Lnorm=7.766e-06 integral=0.997213 lam=300.0
+n=17 ep=8000 E=15.166545 L=1.255e+00 LPDE=1.255e+00 Lnorm=2.650e-07 integral=0.999485 lam=300.0
+n=17 ep=12000 E=14.709610 L=1.176e+00 LPDE=1.176e+00 Lnorm=5.094e-07 integral=0.999286 lam=300.0
+n=17 ep=16000 E=14.171285 L=1.036e+00 LPDE=1.031e+00 Lnorm=5.513e-05 integral=0.992575 lam=80.0
+n=17 ep=20000 E=13.937118 L=9.573e-01 LPDE=9.538e-01 Lnorm=4.478e-05 integral=0.993308 lam=80.0
+
+===== n=18 seed=218 =====
+Usando device: cuda
+n=18 ep=1 E=17.500000 L=2.996e+02 LPDE=1.478e-02 Lnorm=9.985e-01 integral=0.000770 lam=300.0
+n=18 ep=4000 E=16.682083 L=1.697e+01 LPDE=1.664e+01 Lnorm=1.087e-03 integral=0.967035 lam=300.0
+n=18 ep=8000 E=15.912631 L=1.523e+01 LPDE=1.498e+01 Lnorm=8.490e-04 integral=0.970863 lam=300.0
+n=18 ep=12000 E=15.317907 L=1.395e+01 LPDE=1.375e+01 Lnorm=6.713e-04 integral=0.974091 lam=300.0
+n=18 ep=16000 E=14.969084 L=1.186e+00 LPDE=1.181e+00 Lnorm=5.957e-05 integral=0.992282 lam=80.0
+n=18 ep=20000 E=14.866637 L=7.935e-01 LPDE=7.912e-01 Lnorm=2.947e-05 integral=0.994571 lam=80.0
+
+===== n=19 seed=219 =====
+Usando device: cuda
+n=19 ep=1 E=18.500000 L=2.827e+02 LPDE=6.698e-01 Lnorm=9.400e-01 integral=0.030483 lam=300.0
+n=19 ep=4000 E=17.703695 L=1.734e+00 LPDE=1.728e+00 Lnorm=2.225e-05 integral=0.995283 lam=300.0
+n=19 ep=8000 E=17.052612 L=1.538e+00 LPDE=1.537e+00 Lnorm=9.199e-07 integral=0.999041 lam=300.0
+n=19 ep=12000 E=16.380812 L=1.391e+00 LPDE=1.389e+00 Lnorm=8.117e-06 integral=0.997151 lam=300.0
+n=19 ep=16000 E=15.948631 L=1.290e+00 LPDE=1.284e+00 Lnorm=7.471e-05 integral=0.991357 lam=80.0
+n=19 ep=20000 E=15.716928 L=1.232e+00 LPDE=1.227e+00 Lnorm=6.675e-05 integral=0.991830 lam=80.0
+
+===== n=20 seed=220 =====
+Usando device: cuda
+n=20 ep=1 E=19.500000 L=2.510e+02 LPDE=2.193e+00 Lnorm=8.294e-01 integral=0.089262 lam=300.0
+n=20 ep=4000 E=18.615376 L=2.171e+01 LPDE=2.120e+01 Lnorm=1.698e-03 integral=0.958796 lam=300.0
+n=20 ep=8000 E=17.822178 L=1.969e+01 LPDE=1.929e+01 Lnorm=1.332e-03 integral=0.963501 lam=300.0
+n=20 ep=12000 E=17.223461 L=1.823e+01 LPDE=1.791e+01 Lnorm=1.077e-03 integral=0.967178 lam=300.0
+n=20 ep=16000 E=16.820749 L=1.331e+00 LPDE=1.325e+00 Lnorm=7.475e-05 integral=0.991354 lam=80.0
+n=20 ep=20000 E=16.722881 L=1.178e+00 LPDE=1.174e+00 Lnorm=6.008e-05 integral=0.992249 lam=80.0
+
+--- Seed 3 ---
+
+===== n=1 seed=301 =====
+Usando device: cuda
+n=1 ep=1 E=0.500000 L=3.495e+01 LPDE=1.985e-02 Lnorm=8.733e-01 integral=0.065504 lam=40.0
+n=1 ep=1600 E=0.717660 L=1.156e-02 LPDE=1.112e-02 Lnorm=1.087e-05 integral=1.003296 lam=40.0
+n=1 ep=3200 E=0.750919 L=1.124e-02 LPDE=1.067e-02 Lnorm=1.436e-05 integral=1.003789 lam=40.0
+n=1 ep=4800 E=0.750356 L=1.134e-02 LPDE=1.045e-02 Lnorm=2.226e-05 integral=0.995282 lam=40.0
+n=1 ep=6400 E=0.716145 L=2.609e-03 LPDE=2.608e-03 Lnorm=4.432e-08 integral=0.999789 lam=10.0
+n=1 ep=8000 E=0.714050 L=2.113e-03 LPDE=2.113e-03 Lnorm=1.996e-08 integral=0.999859 lam=10.0
+
+===== n=2 seed=302 =====
+Usando device: cuda
+n=2 ep=1 E=1.500000 L=3.327e+01 LPDE=2.771e-02 Lnorm=8.311e-01 integral=0.088362 lam=40.0
+n=2 ep=2000 E=2.165395 L=2.026e-02 LPDE=1.677e-02 Lnorm=8.737e-05 integral=0.990653 lam=40.0
+n=2 ep=4000 E=2.164798 L=1.100e-02 LPDE=1.070e-02 Lnorm=7.538e-06 integral=0.997254 lam=40.0
+n=2 ep=6000 E=2.156271 L=1.553e-02 LPDE=9.592e-03 Lnorm=1.485e-04 integral=1.012186 lam=40.0
+n=2 ep=8000 E=2.149329 L=7.932e-03 LPDE=7.931e-03 Lnorm=1.166e-07 integral=0.999658 lam=15.0
+n=2 ep=10000 E=2.144121 L=6.704e-03 LPDE=6.703e-03 Lnorm=8.295e-08 integral=0.999712 lam=15.0
+
+===== n=3 seed=303 =====
+Usando device: cuda
+n=3 ep=1 E=2.500000 L=2.998e+02 LPDE=1.364e-05 Lnorm=9.992e-01 integral=0.000401 lam=300.0
+n=3 ep=3000 E=2.264396 L=4.972e-02 LPDE=3.504e-02 Lnorm=4.892e-05 integral=1.006994 lam=300.0
+n=3 ep=6000 E=2.261858 L=3.453e-02 LPDE=3.427e-02 Lnorm=8.957e-07 integral=1.000946 lam=300.0
+n=3 ep=9000 E=2.260547 L=3.779e-02 LPDE=3.402e-02 Lnorm=1.255e-05 integral=1.003543 lam=300.0
+n=3 ep=12000 E=2.246218 L=3.020e-02 LPDE=3.020e-02 Lnorm=1.618e-08 integral=0.999873 lam=80.0
+n=3 ep=15000 E=2.180285 L=1.506e-02 LPDE=1.505e-02 Lnorm=1.356e-08 integral=0.999884 lam=80.0
+
+===== n=4 seed=304 =====
+Usando device: cuda
+n=4 ep=1 E=3.500000 L=2.009e+02 LPDE=6.254e-02 Lnorm=6.695e-01 integral=0.181742 lam=300.0
+n=4 ep=4000 E=2.815538 L=5.948e-02 LPDE=5.946e-02 Lnorm=7.596e-08 integral=1.000276 lam=300.0
+n=4 ep=8000 E=2.414653 L=3.530e-02 LPDE=3.437e-02 Lnorm=3.119e-06 integral=1.001766 lam=300.0
+n=4 ep=12000 E=2.252434 L=3.050e-02 LPDE=3.008e-02 Lnorm=1.392e-06 integral=0.998820 lam=300.0
+n=4 ep=16000 E=2.167325 L=1.201e-02 LPDE=1.184e-02 Lnorm=2.121e-06 integral=1.001456 lam=80.0
+n=4 ep=20000 E=2.156074 L=9.461e-03 LPDE=9.461e-03 Lnorm=9.755e-10 integral=0.999969 lam=80.0
+
+===== n=5 seed=305 =====
+Usando device: cuda
+n=5 ep=1 E=4.500000 L=2.663e+02 LPDE=2.612e-02 Lnorm=8.876e-01 integral=0.057892 lam=300.0
+n=5 ep=4000 E=3.721886 L=2.121e-01 LPDE=2.117e-01 Lnorm=1.360e-06 integral=0.998834 lam=300.0
+n=5 ep=8000 E=3.136040 L=1.183e-01 LPDE=9.767e-02 Lnorm=6.881e-05 integral=0.991705 lam=300.0
+n=5 ep=12000 E=2.657367 L=4.838e-02 LPDE=4.752e-02 Lnorm=2.858e-06 integral=1.001691 lam=300.0
+n=5 ep=16000 E=2.352979 L=3.397e-02 LPDE=3.397e-02 Lnorm=3.734e-08 integral=1.000193 lam=80.0
+n=5 ep=20000 E=2.224734 L=1.618e-02 LPDE=1.618e-02 Lnorm=1.527e-08 integral=0.999876 lam=80.0
+
+===== n=6 seed=306 =====
+Usando device: cuda
+n=6 ep=1 E=5.500000 L=2.930e+02 LPDE=1.230e-02 Lnorm=9.767e-01 integral=0.011720 lam=300.0
+n=6 ep=4000 E=4.644665 L=5.077e-01 LPDE=5.072e-01 Lnorm=1.848e-06 integral=1.001360 lam=300.0
+n=6 ep=8000 E=3.835887 L=2.415e-01 LPDE=2.409e-01 Lnorm=1.923e-06 integral=1.001387 lam=300.0
+n=6 ep=12000 E=3.226270 L=1.123e-01 LPDE=1.121e-01 Lnorm=9.495e-07 integral=1.000974 lam=300.0
+n=6 ep=16000 E=2.745049 L=3.892e-02 LPDE=3.892e-02 Lnorm=2.292e-10 integral=0.999985 lam=80.0
+n=6 ep=20000 E=2.553534 L=2.192e-02 LPDE=2.192e-02 Lnorm=2.098e-08 integral=0.999855 lam=80.0
+
+===== n=7 seed=307 =====
+Usando device: cuda
+n=7 ep=1 E=6.500000 L=2.956e+02 LPDE=1.137e-02 Lnorm=9.852e-01 integral=0.007436 lam=300.0
+n=7 ep=4000 E=5.635288 L=9.838e-01 LPDE=9.721e-01 Lnorm=3.888e-05 integral=0.993765 lam=300.0
+n=7 ep=8000 E=4.778569 L=5.619e-01 LPDE=5.548e-01 Lnorm=2.342e-05 integral=0.995161 lam=300.0
+n=7 ep=12000 E=4.138936 L=3.277e-01 LPDE=3.244e-01 Lnorm=1.125e-05 integral=0.996646 lam=300.0
+n=7 ep=16000 E=3.605699 L=1.859e-01 LPDE=1.854e-01 Lnorm=7.011e-06 integral=0.997352 lam=80.0
+n=7 ep=20000 E=3.366673 L=1.366e-01 LPDE=1.365e-01 Lnorm=5.067e-07 integral=0.999288 lam=80.0
+
+===== n=8 seed=308 =====
+Usando device: cuda
+n=8 ep=1 E=7.500000 L=2.507e+02 LPDE=2.075e-01 Lnorm=8.350e-01 integral=0.086193 lam=300.0
+n=8 ep=4000 E=6.837685 L=1.930e+00 LPDE=1.896e+00 Lnorm=1.152e-04 integral=1.010735 lam=300.0
+n=8 ep=8000 E=6.105713 L=1.392e+00 LPDE=1.366e+00 Lnorm=8.854e-05 integral=0.990590 lam=300.0
+n=8 ep=12000 E=5.466929 L=8.882e-01 LPDE=8.882e-01 Lnorm=4.136e-09 integral=0.999936 lam=300.0
+n=8 ep=16000 E=5.071764 L=2.668e-01 LPDE=2.665e-01 Lnorm=4.693e-06 integral=0.997834 lam=80.0
+n=8 ep=20000 E=5.227731 L=7.861e-02 LPDE=7.857e-02 Lnorm=5.291e-07 integral=0.999273 lam=80.0
+
+===== n=9 seed=309 =====
+Usando device: cuda
+n=9 ep=1 E=8.500000 L=2.985e+02 LPDE=8.351e-03 Lnorm=9.949e-01 integral=0.002546 lam=300.0
+n=9 ep=4000 E=7.642859 L=2.495e+00 LPDE=2.391e+00 Lnorm=3.450e-04 integral=0.981426 lam=300.0
+n=9 ep=8000 E=6.884411 L=1.844e+00 LPDE=1.767e+00 Lnorm=2.555e-04 integral=0.984015 lam=300.0
+n=9 ep=12000 E=6.358340 L=4.566e-01 LPDE=4.563e-01 Lnorm=7.832e-07 integral=0.999115 lam=300.0
+n=9 ep=16000 E=6.064570 L=2.277e-01 LPDE=2.275e-01 Lnorm=3.188e-06 integral=0.998214 lam=80.0
+n=9 ep=20000 E=5.869934 L=1.964e-01 LPDE=1.962e-01 Lnorm=2.160e-06 integral=0.998530 lam=80.0
+
+===== n=10 seed=310 =====
+Usando device: cuda
+n=10 ep=1 E=9.500001 L=2.812e+02 LPDE=1.423e-01 Lnorm=9.367e-01 integral=0.032158 lam=300.0
+n=10 ep=4000 E=8.874810 L=3.713e+00 LPDE=3.688e+00 Lnorm=8.277e-05 integral=0.990902 lam=300.0
+n=10 ep=8000 E=8.181452 L=3.009e+00 LPDE=2.991e+00 Lnorm=6.171e-05 integral=0.992144 lam=300.0
+n=10 ep=12000 E=7.598523 L=2.479e+00 LPDE=2.465e+00 Lnorm=4.434e-05 integral=0.993341 lam=300.0
+n=10 ep=16000 E=7.099223 L=3.584e-01 LPDE=3.579e-01 Lnorm=5.561e-06 integral=0.997642 lam=80.0
+n=10 ep=20000 E=6.900388 L=2.969e-01 LPDE=2.966e-01 Lnorm=3.578e-06 integral=0.998109 lam=80.0
+
+===== n=11 seed=311 =====
+Usando device: cuda
+n=11 ep=1 E=10.500000 L=2.984e+02 LPDE=1.493e-02 Lnorm=9.948e-01 integral=0.002619 lam=300.0
+n=11 ep=4000 E=9.538178 L=2.007e+00 LPDE=2.006e+00 Lnorm=2.579e-06 integral=0.998394 lam=300.0
+n=11 ep=8000 E=9.001046 L=7.834e-01 LPDE=7.794e-01 Lnorm=1.348e-05 integral=0.996328 lam=300.0
+n=11 ep=12000 E=8.694965 L=5.648e-01 LPDE=5.648e-01 Lnorm=2.719e-07 integral=0.999479 lam=300.0
+n=11 ep=16000 E=8.266979 L=4.295e-01 LPDE=4.287e-01 Lnorm=1.040e-05 integral=0.996776 lam=80.0
+n=11 ep=20000 E=8.044693 L=3.760e-01 LPDE=3.754e-01 Lnorm=7.827e-06 integral=0.997202 lam=80.0
+
+===== n=12 seed=312 =====
+Usando device: cuda
+n=12 ep=1 E=11.500000 L=2.583e+02 LPDE=5.207e-01 Lnorm=8.592e-01 integral=0.073078 lam=300.0
+n=12 ep=4000 E=10.602088 L=5.837e+00 LPDE=5.709e+00 Lnorm=4.261e-04 integral=0.979357 lam=300.0
+n=12 ep=8000 E=9.727622 L=4.689e+00 LPDE=4.688e+00 Lnorm=5.822e-06 integral=0.997587 lam=300.0
+n=12 ep=12000 E=9.054881 L=3.910e+00 LPDE=3.909e+00 Lnorm=2.806e-06 integral=0.998325 lam=300.0
+n=12 ep=16000 E=8.540807 L=3.268e+00 LPDE=3.234e+00 Lnorm=4.272e-04 integral=0.979332 lam=80.0
+n=12 ep=20000 E=8.403197 L=5.887e-01 LPDE=5.875e-01 Lnorm=1.472e-05 integral=0.996163 lam=80.0
+
+===== n=13 seed=313 =====
+Usando device: cuda
+n=13 ep=1 E=12.500000 L=2.404e+02 LPDE=9.339e-01 Lnorm=7.983e-01 integral=0.106525 lam=300.0
+n=13 ep=4000 E=11.687613 L=7.370e+00 LPDE=7.224e+00 Lnorm=4.863e-04 integral=0.977948 lam=300.0
+n=13 ep=8000 E=11.079532 L=8.815e-01 LPDE=8.815e-01 Lnorm=1.422e-07 integral=0.999623 lam=300.0
+n=13 ep=12000 E=10.823210 L=7.482e-01 LPDE=7.477e-01 Lnorm=1.381e-06 integral=0.998825 lam=300.0
+n=13 ep=16000 E=10.420803 L=6.395e-01 LPDE=6.377e-01 Lnorm=2.299e-05 integral=0.995205 lam=80.0
+n=13 ep=20000 E=10.203699 L=5.749e-01 LPDE=5.734e-01 Lnorm=1.821e-05 integral=0.995733 lam=80.0
+
+===== n=14 seed=314 =====
+Usando device: cuda
+n=14 ep=1 E=13.500000 L=2.758e+02 LPDE=4.405e-01 Lnorm=9.178e-01 integral=0.041999 lam=300.0
+n=14 ep=4000 E=12.449319 L=8.582e+00 LPDE=8.466e+00 Lnorm=3.882e-04 integral=0.980298 lam=300.0
+n=14 ep=8000 E=11.553110 L=7.168e+00 LPDE=7.074e+00 Lnorm=3.122e-04 integral=0.982331 lam=300.0
+n=14 ep=12000 E=10.874075 L=6.182e+00 LPDE=6.178e+00 Lnorm=1.381e-05 integral=0.996284 lam=300.0
+n=14 ep=16000 E=10.512505 L=5.715e-01 LPDE=5.701e-01 Lnorm=1.805e-05 integral=0.995752 lam=80.0
+n=14 ep=20000 E=10.333989 L=4.816e-01 LPDE=4.807e-01 Lnorm=1.112e-05 integral=0.996666 lam=80.0
+
+===== n=15 seed=315 =====
+Usando device: cuda
+n=15 ep=1 E=14.500000 L=2.883e+02 LPDE=2.501e-01 Lnorm=9.603e-01 integral=0.020040 lam=300.0
+n=15 ep=4000 E=13.689976 L=1.192e+00 LPDE=1.191e+00 Lnorm=4.115e-06 integral=0.997971 lam=300.0
+n=15 ep=8000 E=12.983048 L=1.031e+00 LPDE=1.029e+00 Lnorm=4.469e-06 integral=1.002114 lam=300.0
+n=15 ep=12000 E=12.396972 L=9.035e-01 LPDE=9.035e-01 Lnorm=1.198e-07 integral=0.999654 lam=300.0
+n=15 ep=16000 E=11.938157 L=7.975e-01 LPDE=7.951e-01 Lnorm=2.903e-05 integral=0.994612 lam=80.0
+n=15 ep=20000 E=11.707419 L=7.410e-01 LPDE=7.390e-01 Lnorm=2.444e-05 integral=0.995057 lam=80.0
+
+===== n=16 seed=316 =====
+Usando device: cuda
+n=16 ep=1 E=15.500000 L=2.975e+02 LPDE=6.269e-02 Lnorm=9.914e-01 integral=0.004324 lam=300.0
+n=16 ep=4000 E=14.844660 L=1.299e+01 LPDE=1.291e+01 Lnorm=2.515e-04 integral=0.984141 lam=300.0
+n=16 ep=8000 E=14.206390 L=1.183e+01 LPDE=1.136e+01 Lnorm=1.587e-03 integral=0.960164 lam=300.0
+n=16 ep=12000 E=13.700974 L=1.076e+01 LPDE=1.062e+01 Lnorm=4.584e-04 integral=0.978591 lam=300.0
+n=16 ep=16000 E=13.270094 L=1.022e+00 LPDE=1.019e+00 Lnorm=4.192e-05 integral=0.993525 lam=80.0
+n=16 ep=20000 E=13.119419 L=8.022e-01 LPDE=7.999e-01 Lnorm=2.858e-05 integral=0.994654 lam=80.0
+
+===== n=17 seed=317 =====
+Usando device: cuda
+n=17 ep=1 E=16.500000 L=2.531e+02 LPDE=1.423e+00 Lnorm=8.389e-01 integral=0.084077 lam=300.0
+n=17 ep=4000 E=15.509254 L=1.610e+00 LPDE=1.601e+00 Lnorm=2.892e-05 integral=0.994622 lam=300.0
+n=17 ep=8000 E=14.845922 L=1.334e+00 LPDE=1.333e+00 Lnorm=3.626e-06 integral=0.998096 lam=300.0
+n=17 ep=12000 E=14.446248 L=1.166e+00 LPDE=1.161e+00 Lnorm=1.672e-05 integral=0.995911 lam=300.0
+n=17 ep=16000 E=13.969220 L=1.025e+00 LPDE=1.021e+00 Lnorm=5.393e-05 integral=0.992656 lam=80.0
+n=17 ep=20000 E=13.736633 L=9.415e-01 LPDE=9.380e-01 Lnorm=4.375e-05 integral=0.993386 lam=80.0
+
+===== n=18 seed=318 =====
+Usando device: cuda
+n=18 ep=1 E=17.500000 L=2.858e+02 LPDE=4.757e-01 Lnorm=9.511e-01 integral=0.024767 lam=300.0
+n=18 ep=4000 E=16.412968 L=1.634e+01 LPDE=1.605e+01 Lnorm=9.424e-04 integral=0.969301 lam=300.0
+n=18 ep=8000 E=15.790130 L=1.200e+00 LPDE=1.198e+00 Lnorm=5.029e-06 integral=0.997757 lam=300.0
+n=18 ep=12000 E=15.243649 L=6.852e-01 LPDE=6.847e-01 Lnorm=1.603e-06 integral=0.998734 lam=300.0
+n=18 ep=16000 E=14.776482 L=5.859e-01 LPDE=5.847e-01 Lnorm=1.485e-05 integral=0.996146 lam=80.0
+n=18 ep=20000 E=14.546933 L=5.477e-01 LPDE=5.467e-01 Lnorm=1.285e-05 integral=0.996415 lam=80.0
+
+===== n=19 seed=319 =====
+Usando device: cuda
+n=19 ep=1 E=18.500000 L=2.748e+02 LPDE=9.840e-01 Lnorm=9.126e-01 integral=0.044700 lam=300.0
+n=19 ep=4000 E=17.658741 L=1.871e+00 LPDE=1.865e+00 Lnorm=2.047e-05 integral=0.995476 lam=300.0
+n=19 ep=8000 E=17.128630 L=1.580e+00 LPDE=1.580e+00 Lnorm=4.518e-08 integral=0.999787 lam=300.0
+n=19 ep=12000 E=16.494167 L=1.445e+00 LPDE=1.445e+00 Lnorm=3.419e-07 integral=0.999415 lam=300.0
+n=19 ep=16000 E=15.946899 L=1.294e+00 LPDE=1.288e+00 Lnorm=7.553e-05 integral=0.991309 lam=80.0
+n=19 ep=20000 E=15.712602 L=1.220e+00 LPDE=1.215e+00 Lnorm=6.498e-05 integral=0.991939 lam=80.0
+
+===== n=20 seed=320 =====
+Usando device: cuda
+n=20 ep=1 E=19.500000 L=2.402e+02 LPDE=2.710e+00 Lnorm=7.916e-01 integral=0.110269 lam=300.0
+n=20 ep=4000 E=18.741676 L=2.232e+01 LPDE=2.231e+01 Lnorm=4.357e-05 integral=0.993399 lam=300.0
+n=20 ep=8000 E=18.062332 L=2.029e+01 LPDE=1.998e+01 Lnorm=1.044e-03 integral=0.967685 lam=300.0
+n=20 ep=12000 E=17.511232 L=1.893e+01 LPDE=1.858e+01 Lnorm=1.143e-03 integral=0.966193 lam=300.0
+n=20 ep=16000 E=17.162989 L=1.301e+00 LPDE=1.295e+00 Lnorm=7.202e-05 integral=0.991513 lam=80.0
+n=20 ep=20000 E=17.009623 L=1.007e+00 LPDE=1.003e+00 Lnorm=4.299e-05 integral=0.993443 lam=80.0
+
+--- Seed 4 ---
+
+===== n=1 seed=401 =====
+Usando device: cuda
+n=1 ep=1 E=0.500000 L=3.993e+01 LPDE=2.447e-04 Lnorm=9.983e-01 integral=0.000842 lam=40.0
+n=1 ep=1600 E=0.721994 L=1.182e-02 LPDE=1.111e-02 Lnorm=1.767e-05 integral=1.004204 lam=40.0
+n=1 ep=3200 E=0.750938 L=1.065e-02 LPDE=1.062e-02 Lnorm=7.679e-07 integral=0.999124 lam=40.0
+n=1 ep=4800 E=0.750311 L=1.991e-02 LPDE=1.065e-02 Lnorm=2.317e-04 integral=1.015223 lam=40.0
+n=1 ep=6400 E=0.718115 L=3.021e-03 LPDE=3.021e-03 Lnorm=4.307e-08 integral=0.999792 lam=10.0
+n=1 ep=8000 E=0.715383 L=2.418e-03 LPDE=2.418e-03 Lnorm=2.667e-08 integral=0.999837 lam=10.0
+
+===== n=2 seed=402 =====
+Usando device: cuda
+n=2 ep=1 E=1.500000 L=3.664e+01 LPDE=1.393e-02 Lnorm=9.158e-01 integral=0.043045 lam=40.0
+n=2 ep=2000 E=2.181772 L=3.492e-02 LPDE=3.217e-02 Lnorm=6.870e-05 integral=1.008289 lam=40.0
+n=2 ep=4000 E=2.188257 L=1.838e-02 LPDE=1.322e-02 Lnorm=1.290e-04 integral=1.011360 lam=40.0
+n=2 ep=6000 E=2.153838 L=1.098e-02 LPDE=8.940e-03 Lnorm=5.098e-05 integral=0.992860 lam=40.0
+n=2 ep=8000 E=2.145784 L=7.234e-03 LPDE=7.233e-03 Lnorm=8.226e-08 integral=0.999713 lam=15.0
+n=2 ep=10000 E=2.141663 L=6.231e-03 LPDE=6.230e-03 Lnorm=6.399e-08 integral=0.999747 lam=15.0
+
+===== n=3 seed=403 =====
+Usando device: cuda
+n=3 ep=1 E=2.500000 L=2.975e+02 LPDE=1.708e-04 Lnorm=9.918e-01 integral=0.004116 lam=300.0
+n=3 ep=3000 E=2.264338 L=4.058e-02 LPDE=3.497e-02 Lnorm=1.870e-05 integral=1.004324 lam=300.0
+n=3 ep=6000 E=2.261730 L=3.568e-02 LPDE=3.411e-02 Lnorm=5.226e-06 integral=0.997714 lam=300.0
+n=3 ep=9000 E=2.260558 L=3.391e-02 LPDE=3.389e-02 Lnorm=9.190e-08 integral=0.999697 lam=300.0
+n=3 ep=12000 E=2.255867 L=3.273e-02 LPDE=3.268e-02 Lnorm=6.434e-07 integral=0.999198 lam=80.0
+n=3 ep=15000 E=2.185259 L=1.606e-02 LPDE=1.606e-02 Lnorm=1.576e-08 integral=0.999874 lam=80.0
+
+===== n=4 seed=404 =====
+Usando device: cuda
+n=4 ep=1 E=3.500000 L=2.894e+02 LPDE=6.184e-03 Lnorm=9.645e-01 integral=0.017899 lam=300.0
+n=4 ep=4000 E=2.704994 L=4.986e-02 LPDE=4.984e-02 Lnorm=6.031e-08 integral=1.000246 lam=300.0
+n=4 ep=8000 E=2.369736 L=3.332e-02 LPDE=3.326e-02 Lnorm=2.079e-07 integral=0.999544 lam=300.0
+n=4 ep=12000 E=2.253137 L=3.196e-02 LPDE=3.157e-02 Lnorm=1.301e-06 integral=0.998860 lam=300.0
+n=4 ep=16000 E=2.173596 L=1.536e-02 LPDE=1.320e-02 Lnorm=2.694e-05 integral=1.005191 lam=80.0
+n=4 ep=20000 E=2.165440 L=1.142e-02 LPDE=1.142e-02 Lnorm=8.869e-09 integral=0.999906 lam=80.0
+
+===== n=5 seed=405 =====
+Usando device: cuda
+n=5 ep=1 E=4.500000 L=2.453e+02 LPDE=4.314e-02 Lnorm=8.176e-01 integral=0.095815 lam=300.0
+n=5 ep=4000 E=3.766458 L=2.241e-01 LPDE=2.224e-01 Lnorm=5.748e-06 integral=0.997603 lam=300.0
+n=5 ep=8000 E=3.044574 L=8.650e-02 LPDE=8.624e-02 Lnorm=8.756e-07 integral=0.999064 lam=300.0
+n=5 ep=12000 E=2.624123 L=4.594e-02 LPDE=4.575e-02 Lnorm=6.372e-07 integral=1.000798 lam=300.0
+n=5 ep=16000 E=2.318877 L=3.378e-02 LPDE=3.374e-02 Lnorm=4.496e-07 integral=0.999330 lam=80.0
+n=5 ep=20000 E=2.194634 L=1.351e-02 LPDE=1.351e-02 Lnorm=1.149e-08 integral=0.999893 lam=80.0
+
+===== n=6 seed=406 =====
+Usando device: cuda
+n=6 ep=1 E=5.500000 L=2.951e+02 LPDE=8.726e-03 Lnorm=9.835e-01 integral=0.008277 lam=300.0
+n=6 ep=4000 E=4.573832 L=4.563e-01 LPDE=4.554e-01 Lnorm=2.928e-06 integral=0.998289 lam=300.0
+n=6 ep=8000 E=3.990701 L=2.788e-01 LPDE=2.776e-01 Lnorm=3.952e-06 integral=0.998012 lam=300.0
+n=6 ep=12000 E=3.308465 L=1.273e-01 LPDE=1.270e-01 Lnorm=8.410e-07 integral=0.999083 lam=300.0
+n=6 ep=16000 E=2.849483 L=5.431e-02 LPDE=5.427e-02 Lnorm=6.002e-07 integral=0.999225 lam=80.0
+n=6 ep=20000 E=2.649769 L=2.926e-02 LPDE=2.926e-02 Lnorm=7.413e-08 integral=0.999728 lam=80.0
+
+===== n=7 seed=407 =====
+Usando device: cuda
+n=7 ep=1 E=6.500000 L=2.240e+02 LPDE=2.082e-01 Lnorm=7.459e-01 integral=0.136318 lam=300.0
+n=7 ep=4000 E=5.817944 L=1.132e+00 LPDE=1.094e+00 Lnorm=1.282e-04 integral=1.011322 lam=300.0
+n=7 ep=8000 E=5.158021 L=7.476e-01 LPDE=7.322e-01 Lnorm=5.154e-05 integral=1.007179 lam=300.0
+n=7 ep=12000 E=4.593443 L=4.893e-01 LPDE=4.843e-01 Lnorm=1.671e-05 integral=1.004087 lam=300.0
+n=7 ep=16000 E=4.081418 L=3.035e-01 LPDE=3.035e-01 Lnorm=7.255e-07 integral=0.999148 lam=80.0
+n=7 ep=20000 E=3.927394 L=1.239e-01 LPDE=1.238e-01 Lnorm=1.062e-06 integral=0.998970 lam=80.0
+
+===== n=8 seed=408 =====
+Usando device: cuda
+n=8 ep=1 E=7.500000 L=2.602e+02 LPDE=1.662e-01 Lnorm=8.666e-01 integral=0.069068 lam=300.0
+n=8 ep=4000 E=6.473187 L=2.905e-01 LPDE=2.872e-01 Lnorm=1.093e-05 integral=0.996695 lam=300.0
+n=8 ep=8000 E=6.084138 L=1.890e-01 LPDE=1.871e-01 Lnorm=6.100e-06 integral=0.997530 lam=300.0
+n=8 ep=12000 E=5.739633 L=1.645e-01 LPDE=1.563e-01 Lnorm=2.726e-05 integral=0.994779 lam=300.0
+n=8 ep=16000 E=5.372031 L=7.982e-02 LPDE=7.977e-02 Lnorm=6.550e-07 integral=0.999191 lam=80.0
+n=8 ep=20000 E=5.205429 L=5.750e-02 LPDE=5.748e-02 Lnorm=2.090e-07 integral=0.999543 lam=80.0
+
+===== n=9 seed=409 =====
+Usando device: cuda
+n=9 ep=1 E=8.500000 L=2.265e+02 LPDE=4.321e-01 Lnorm=7.535e-01 integral=0.131945 lam=300.0
+n=9 ep=4000 E=7.572555 L=2.388e+00 LPDE=2.384e+00 Lnorm=1.120e-05 integral=1.003347 lam=300.0
+n=9 ep=8000 E=6.703106 L=1.568e+00 LPDE=1.555e+00 Lnorm=4.319e-05 integral=0.993428 lam=300.0
+n=9 ep=12000 E=6.460588 L=3.042e-01 LPDE=3.013e-01 Lnorm=9.473e-06 integral=1.003078 lam=300.0
+n=9 ep=16000 E=6.067398 L=2.248e-01 LPDE=2.245e-01 Lnorm=3.955e-06 integral=1.001989 lam=80.0
+n=9 ep=20000 E=5.873004 L=1.967e-01 LPDE=1.966e-01 Lnorm=2.119e-06 integral=0.998544 lam=80.0
+
+===== n=10 seed=410 =====
+Usando device: cuda
+n=10 ep=1 E=9.500001 L=2.793e+02 LPDE=1.567e-01 Lnorm=9.305e-01 integral=0.035388 lam=300.0
+n=10 ep=4000 E=8.815497 L=3.727e+00 LPDE=3.696e+00 Lnorm=1.033e-04 integral=1.010165 lam=300.0
+n=10 ep=8000 E=7.996087 L=2.836e+00 LPDE=2.815e+00 Lnorm=6.777e-05 integral=0.991768 lam=300.0
+n=10 ep=12000 E=7.344522 L=2.225e+00 LPDE=2.201e+00 Lnorm=7.951e-05 integral=0.991083 lam=300.0
+n=10 ep=16000 E=6.873877 L=2.941e-01 LPDE=2.939e-01 Lnorm=2.331e-06 integral=0.998473 lam=80.0
+n=10 ep=20000 E=6.662356 L=2.488e-01 LPDE=2.486e-01 Lnorm=2.568e-06 integral=0.998397 lam=80.0
+
+===== n=11 seed=411 =====
+Usando device: cuda
+n=11 ep=1 E=10.500000 L=2.994e+02 LPDE=5.733e-03 Lnorm=9.980e-01 integral=0.001002 lam=300.0
+n=11 ep=4000 E=9.488221 L=3.519e+00 LPDE=3.517e+00 Lnorm=7.147e-06 integral=1.002673 lam=300.0
+n=11 ep=8000 E=8.868742 L=7.647e-01 LPDE=7.560e-01 Lnorm=2.909e-05 integral=0.994606 lam=300.0
+n=11 ep=12000 E=8.456753 L=6.040e-01 LPDE=6.031e-01 Lnorm=2.719e-06 integral=0.998351 lam=300.0
+n=11 ep=16000 E=8.215991 L=4.398e-01 LPDE=4.388e-01 Lnorm=1.234e-05 integral=0.996488 lam=80.0
+n=11 ep=20000 E=7.995989 L=3.818e-01 LPDE=3.811e-01 Lnorm=8.424e-06 integral=0.997098 lam=80.0
+
+===== n=12 seed=412 =====
+Usando device: cuda
+n=12 ep=1 E=11.500000 L=2.953e+02 LPDE=5.679e-02 Lnorm=9.842e-01 integral=0.007952 lam=300.0
+n=12 ep=4000 E=10.907574 L=6.235e+00 LPDE=6.230e+00 Lnorm=1.757e-05 integral=0.995808 lam=300.0
+n=12 ep=8000 E=10.308705 L=5.505e+00 LPDE=5.292e+00 Lnorm=7.079e-04 integral=0.973394 lam=300.0
+n=12 ep=12000 E=9.810839 L=4.821e+00 LPDE=4.817e+00 Lnorm=1.052e-05 integral=1.003243 lam=300.0
+n=12 ep=16000 E=9.477655 L=6.172e-01 LPDE=6.157e-01 Lnorm=1.855e-05 integral=0.995693 lam=80.0
+n=12 ep=20000 E=9.512486 L=4.508e-01 LPDE=4.500e-01 Lnorm=1.045e-05 integral=0.996768 lam=80.0
+
+===== n=13 seed=413 =====
+Usando device: cuda
+n=13 ep=1 E=12.500000 L=2.916e+02 LPDE=1.250e-01 Lnorm=9.717e-01 integral=0.014277 lam=300.0
+n=13 ep=4000 E=11.480367 L=7.131e+00 LPDE=6.873e+00 Lnorm=8.598e-04 integral=0.970678 lam=300.0
+n=13 ep=8000 E=10.768391 L=8.805e-01 LPDE=8.804e-01 Lnorm=1.691e-07 integral=0.999589 lam=300.0
+n=13 ep=12000 E=10.220151 L=7.451e-01 LPDE=7.440e-01 Lnorm=3.799e-06 integral=0.998051 lam=300.0
+n=13 ep=16000 E=9.747647 L=6.344e-01 LPDE=6.330e-01 Lnorm=1.776e-05 integral=0.995786 lam=80.0
+n=13 ep=20000 E=9.514575 L=5.765e-01 LPDE=5.754e-01 Lnorm=1.431e-05 integral=0.996217 lam=80.0
+
+===== n=14 seed=414 =====
+Usando device: cuda
+n=14 ep=1 E=13.500000 L=2.993e+02 LPDE=1.165e-02 Lnorm=9.978e-01 integral=0.001110 lam=300.0
+n=14 ep=4000 E=12.583557 L=8.813e+00 LPDE=8.662e+00 Lnorm=5.016e-04 integral=0.977604 lam=300.0
+n=14 ep=8000 E=11.687210 L=7.388e+00 LPDE=7.386e+00 Lnorm=7.437e-06 integral=0.997273 lam=300.0
+n=14 ep=12000 E=11.004706 L=6.333e+00 LPDE=6.280e+00 Lnorm=1.753e-04 integral=0.986760 lam=300.0
+n=14 ep=16000 E=10.638552 L=5.684e-01 LPDE=5.671e-01 Lnorm=1.578e-05 integral=0.996028 lam=80.0
+n=14 ep=20000 E=10.411889 L=4.954e-01 LPDE=4.945e-01 Lnorm=1.160e-05 integral=0.996595 lam=80.0
+
+===== n=15 seed=415 =====
+Usando device: cuda
+n=15 ep=1 E=14.500000 L=2.998e+02 LPDE=4.181e-03 Lnorm=9.993e-01 integral=0.000335 lam=300.0
+n=15 ep=4000 E=13.718747 L=1.201e+00 LPDE=1.197e+00 Lnorm=1.421e-05 integral=0.996230 lam=300.0
+n=15 ep=8000 E=13.029891 L=1.033e+00 LPDE=1.031e+00 Lnorm=5.842e-06 integral=0.997583 lam=300.0
+n=15 ep=12000 E=12.465229 L=9.154e-01 LPDE=9.151e-01 Lnorm=1.285e-06 integral=0.998866 lam=300.0
+n=15 ep=16000 E=11.994954 L=8.039e-01 LPDE=8.017e-01 Lnorm=2.731e-05 integral=0.994774 lam=80.0
+n=15 ep=20000 E=11.763953 L=7.480e-01 LPDE=7.460e-01 Lnorm=2.431e-05 integral=0.995069 lam=80.0
+
+===== n=16 seed=416 =====
+Usando device: cuda
+n=16 ep=1 E=15.500000 L=2.902e+02 LPDE=2.445e-01 Lnorm=9.666e-01 integral=0.016858 lam=300.0
+n=16 ep=4000 E=14.487782 L=1.227e+01 LPDE=1.220e+01 Lnorm=2.172e-04 integral=0.985262 lam=300.0
+n=16 ep=8000 E=13.617450 L=9.249e+00 LPDE=9.191e+00 Lnorm=1.934e-04 integral=0.986094 lam=300.0
+n=16 ep=12000 E=12.935616 L=9.773e-01 LPDE=9.765e-01 Lnorm=2.703e-06 integral=0.998356 lam=300.0
+n=16 ep=16000 E=12.528109 L=6.338e-01 LPDE=6.322e-01 Lnorm=1.969e-05 integral=0.995563 lam=80.0
+n=16 ep=20000 E=12.435046 L=4.876e-01 LPDE=4.866e-01 Lnorm=1.302e-05 integral=0.996392 lam=80.0
+
+===== n=17 seed=417 =====
+Usando device: cuda
+n=17 ep=1 E=16.500000 L=2.984e+02 LPDE=4.700e-02 Lnorm=9.944e-01 integral=0.002784 lam=300.0
+n=17 ep=4000 E=15.597806 L=1.576e+00 LPDE=1.576e+00 Lnorm=1.092e-07 integral=0.999669 lam=300.0
+n=17 ep=8000 E=14.961202 L=1.290e+00 LPDE=1.290e+00 Lnorm=1.463e-06 integral=0.998791 lam=300.0
+n=17 ep=12000 E=14.459838 L=1.147e+00 LPDE=1.145e+00 Lnorm=6.377e-06 integral=0.997475 lam=300.0
+n=17 ep=16000 E=13.993057 L=1.024e+00 LPDE=1.020e+00 Lnorm=5.335e-05 integral=0.992696 lam=80.0
+n=17 ep=20000 E=13.765232 L=9.578e-01 LPDE=9.542e-01 Lnorm=4.567e-05 integral=0.993242 lam=80.0
+
+===== n=18 seed=418 =====
+Usando device: cuda
+n=18 ep=1 E=17.500000 L=2.974e+02 LPDE=8.780e-02 Lnorm=9.909e-01 integral=0.004566 lam=300.0
+n=18 ep=4000 E=16.563873 L=1.675e+01 LPDE=1.621e+01 Lnorm=1.809e-03 integral=0.957467 lam=300.0
+n=18 ep=8000 E=15.689951 L=1.477e+01 LPDE=1.441e+01 Lnorm=1.200e-03 integral=0.965361 lam=300.0
+n=18 ep=12000 E=15.032293 L=1.337e+01 LPDE=1.311e+01 Lnorm=8.478e-04 integral=0.970884 lam=300.0
+n=18 ep=16000 E=14.642455 L=1.213e+00 LPDE=1.208e+00 Lnorm=6.026e-05 integral=0.992237 lam=80.0
+n=18 ep=20000 E=14.498477 L=1.131e+00 LPDE=1.126e+00 Lnorm=5.311e-05 integral=0.992712 lam=80.0
+
+===== n=19 seed=419 =====
+Usando device: cuda
+n=19 ep=1 E=18.500000 L=2.930e+02 LPDE=2.673e-01 Lnorm=9.758e-01 integral=0.012149 lam=300.0
+n=19 ep=4000 E=17.747429 L=1.713e+00 LPDE=1.697e+00 Lnorm=5.092e-05 integral=0.992864 lam=300.0
+n=19 ep=8000 E=17.038773 L=1.491e+00 LPDE=1.491e+00 Lnorm=1.413e-07 integral=0.999624 lam=300.0
+n=19 ep=12000 E=16.411648 L=1.357e+00 LPDE=1.354e+00 Lnorm=1.172e-05 integral=0.996577 lam=300.0
+n=19 ep=16000 E=15.948462 L=1.252e+00 LPDE=1.245e+00 Lnorm=7.669e-05 integral=0.991243 lam=80.0
+n=19 ep=20000 E=15.726354 L=1.189e+00 LPDE=1.184e+00 Lnorm=6.564e-05 integral=0.991898 lam=80.0
+
+===== n=20 seed=420 =====
+Usando device: cuda
+n=20 ep=1 E=19.500000 L=2.417e+02 LPDE=2.639e+00 Lnorm=7.967e-01 integral=0.107414 lam=300.0
+n=20 ep=4000 E=18.385704 L=2.112e+01 LPDE=2.061e+01 Lnorm=1.680e-03 integral=0.959017 lam=300.0
+n=20 ep=8000 E=17.585808 L=1.370e+00 LPDE=1.369e+00 Lnorm=5.110e-06 integral=0.997739 lam=300.0
+n=20 ep=12000 E=16.997950 L=9.481e-01 LPDE=9.472e-01 Lnorm=3.165e-06 integral=0.998221 lam=300.0
+n=20 ep=16000 E=16.558229 L=7.832e-01 LPDE=7.810e-01 Lnorm=2.761e-05 integral=0.994745 lam=80.0
+n=20 ep=20000 E=16.342077 L=7.137e-01 LPDE=7.120e-01 Lnorm=2.165e-05 integral=0.995347 lam=80.0
+
+==================================================
+Arquitectura: A2 (256 neuronas)
+==================================================
+
+--- Seed 0 ---
+
+===== n=1 seed=1 =====
+Usando device: cuda
+n=1 ep=1 E=0.500000 L=4.000e+01 LPDE=8.274e-06 Lnorm=9.999e-01 integral=0.000036 lam=40.0
+n=1 ep=1600 E=0.730844 L=1.134e-02 LPDE=1.073e-02 Lnorm=1.543e-05 integral=0.996073 lam=40.0
+n=1 ep=3200 E=0.750495 L=1.808e-02 LPDE=1.038e-02 Lnorm=1.927e-04 integral=0.986118 lam=40.0
+n=1 ep=4800 E=0.750162 L=1.045e-02 LPDE=1.045e-02 Lnorm=1.531e-08 integral=0.999876 lam=40.0
+n=1 ep=6400 E=0.720367 L=3.503e-03 LPDE=3.502e-03 Lnorm=5.667e-08 integral=0.999762 lam=10.0
+n=1 ep=8000 E=0.716768 L=2.725e-03 LPDE=2.724e-03 Lnorm=3.445e-08 integral=0.999814 lam=10.0
+
+===== n=2 seed=2 =====
+Usando device: cuda
+n=2 ep=1 E=1.500000 L=3.833e+01 LPDE=6.623e-03 Lnorm=9.580e-01 integral=0.021225 lam=40.0
+n=2 ep=2000 E=2.169481 L=3.965e-02 LPDE=3.174e-02 Lnorm=1.977e-04 integral=0.985940 lam=40.0
+n=2 ep=4000 E=2.240587 L=3.211e-02 LPDE=2.389e-02 Lnorm=2.055e-04 integral=1.014337 lam=40.0
+n=2 ep=6000 E=2.167905 L=6.885e-02 LPDE=1.112e-02 Lnorm=1.443e-03 integral=0.962008 lam=40.0
+n=2 ep=8000 E=2.151443 L=8.374e-03 LPDE=8.370e-03 Lnorm=2.568e-07 integral=1.000507 lam=15.0
+n=2 ep=10000 E=2.146369 L=7.240e-03 LPDE=7.239e-03 Lnorm=9.503e-08 integral=0.999692 lam=15.0
+
+===== n=3 seed=3 =====
+Usando device: cuda
+n=3 ep=1 E=2.500000 L=2.780e+02 LPDE=1.424e-03 Lnorm=9.267e-01 integral=0.037335 lam=300.0
+n=3 ep=3000 E=2.257313 L=4.352e-02 LPDE=3.322e-02 Lnorm=3.435e-05 integral=1.005861 lam=300.0
+n=3 ep=6000 E=2.256615 L=1.024e-01 LPDE=3.341e-02 Lnorm=2.301e-04 integral=1.015169 lam=300.0
+n=3 ep=9000 E=2.256352 L=4.042e-02 LPDE=3.300e-02 Lnorm=2.473e-05 integral=1.004973 lam=300.0
+n=3 ep=12000 E=2.255309 L=3.257e-02 LPDE=3.257e-02 Lnorm=2.274e-08 integral=0.999849 lam=80.0
+n=3 ep=15000 E=2.254565 L=3.238e-02 LPDE=3.238e-02 Lnorm=4.214e-08 integral=0.999795 lam=80.0
+
+===== n=4 seed=4 =====
+Usando device: cuda
+n=4 ep=1 E=3.500000 L=2.604e+02 LPDE=2.329e-02 Lnorm=8.678e-01 integral=0.068451 lam=300.0
+n=4 ep=4000 E=2.891489 L=6.670e-02 LPDE=6.640e-02 Lnorm=1.005e-06 integral=1.001003 lam=300.0
+n=4 ep=8000 E=2.458893 L=3.718e-02 LPDE=3.548e-02 Lnorm=5.653e-06 integral=1.002378 lam=300.0
+n=4 ep=12000 E=2.265858 L=3.883e-02 LPDE=3.138e-02 Lnorm=2.482e-05 integral=0.995018 lam=300.0
+n=4 ep=16000 E=2.183320 L=1.545e-02 LPDE=1.495e-02 Lnorm=6.199e-06 integral=0.997510 lam=80.0
+n=4 ep=20000 E=2.168298 L=1.190e-02 LPDE=1.190e-02 Lnorm=8.058e-09 integral=0.999910 lam=80.0
+
+===== n=5 seed=5 =====
+Usando device: cuda
+n=5 ep=1 E=4.500000 L=2.680e+02 LPDE=2.481e-02 Lnorm=8.932e-01 integral=0.054911 lam=300.0
+n=5 ep=4000 E=3.870024 L=2.734e-01 LPDE=2.474e-01 Lnorm=8.670e-05 integral=0.990689 lam=300.0
+n=5 ep=8000 E=3.371727 L=1.682e-01 LPDE=1.380e-01 Lnorm=1.007e-04 integral=1.010035 lam=300.0
+n=5 ep=12000 E=2.987984 L=9.585e-02 LPDE=7.825e-02 Lnorm=5.867e-05 integral=1.007660 lam=300.0
+n=5 ep=16000 E=2.598868 L=4.253e-02 LPDE=4.247e-02 Lnorm=7.131e-07 integral=1.000844 lam=80.0
+n=5 ep=20000 E=2.424593 L=2.577e-02 LPDE=2.575e-02 Lnorm=1.844e-07 integral=0.999571 lam=80.0
+
+===== n=6 seed=6 =====
+Usando device: cuda
+n=6 ep=1 E=5.500000 L=2.708e+02 LPDE=5.173e-02 Lnorm=9.026e-01 integral=0.049922 lam=300.0
+n=6 ep=4000 E=4.494533 L=4.498e-01 LPDE=4.495e-01 Lnorm=1.105e-06 integral=1.001051 lam=300.0
+n=6 ep=8000 E=3.694680 L=2.066e-01 LPDE=2.062e-01 Lnorm=1.556e-06 integral=1.001247 lam=300.0
+n=6 ep=12000 E=3.094366 L=9.159e-02 LPDE=9.141e-02 Lnorm=5.978e-07 integral=1.000773 lam=300.0
+n=6 ep=16000 E=2.675555 L=3.953e-02 LPDE=3.948e-02 Lnorm=5.723e-07 integral=1.000757 lam=80.0
+n=6 ep=20000 E=2.501710 L=2.275e-02 LPDE=2.275e-02 Lnorm=2.609e-08 integral=0.999838 lam=80.0
+
+===== n=7 seed=7 =====
+Usando device: cuda
+n=7 ep=1 E=6.500000 L=2.738e+02 LPDE=6.879e-02 Lnorm=9.123e-01 integral=0.044840 lam=300.0
+n=7 ep=4000 E=5.861311 L=1.121e+00 LPDE=1.107e+00 Lnorm=4.894e-05 integral=0.993004 lam=300.0
+n=7 ep=8000 E=5.209160 L=8.199e-01 LPDE=7.681e-01 Lnorm=1.724e-04 integral=1.013131 lam=300.0
+n=7 ep=12000 E=4.651160 L=5.113e-01 LPDE=5.082e-01 Lnorm=1.017e-05 integral=0.996811 lam=300.0
+n=7 ep=16000 E=4.128683 L=3.236e-01 LPDE=3.236e-01 Lnorm=6.303e-09 integral=0.999921 lam=80.0
+n=7 ep=20000 E=3.889729 L=2.544e-01 LPDE=2.542e-01 Lnorm=2.522e-06 integral=0.998412 lam=80.0
+
+===== n=8 seed=8 =====
+Usando device: cuda
+n=8 ep=1 E=7.500000 L=2.892e+02 LPDE=4.398e-02 Lnorm=9.638e-01 integral=0.018281 lam=300.0
+n=8 ep=4000 E=6.719980 L=1.804e+00 LPDE=1.794e+00 Lnorm=3.185e-05 integral=1.005644 lam=300.0
+n=8 ep=8000 E=6.127286 L=1.461e+00 LPDE=1.406e+00 Lnorm=1.858e-04 integral=1.013632 lam=300.0
+n=8 ep=12000 E=5.717657 L=1.054e+00 LPDE=1.041e+00 Lnorm=4.318e-05 integral=1.006571 lam=300.0
+n=8 ep=16000 E=5.471146 L=1.451e-01 LPDE=1.442e-01 Lnorm=1.134e-05 integral=1.003368 lam=80.0
+n=8 ep=20000 E=5.494512 L=1.316e-01 LPDE=1.315e-01 Lnorm=8.754e-07 integral=0.999064 lam=80.0
+
+===== n=9 seed=9 =====
+Usando device: cuda
+n=9 ep=1 E=8.500000 L=2.568e+02 LPDE=2.470e-01 Lnorm=8.551e-01 integral=0.075283 lam=300.0
+n=9 ep=4000 E=7.954941 L=2.810e+00 LPDE=2.679e+00 Lnorm=4.368e-04 integral=0.979101 lam=300.0
+n=9 ep=8000 E=7.291111 L=2.178e+00 LPDE=2.110e+00 Lnorm=2.245e-04 integral=0.985016 lam=300.0
+n=9 ep=12000 E=6.691637 L=1.687e+00 LPDE=1.651e+00 Lnorm=1.216e-04 integral=0.988971 lam=300.0
+n=9 ep=16000 E=6.318963 L=2.547e-01 LPDE=2.544e-01 Lnorm=3.422e-06 integral=0.998150 lam=80.0
+n=9 ep=20000 E=6.149231 L=2.139e-01 LPDE=2.137e-01 Lnorm=2.392e-06 integral=0.998453 lam=80.0
+
+===== n=10 seed=10 =====
+Usando device: cuda
+n=10 ep=1 E=9.500001 L=2.838e+02 LPDE=1.223e-01 Lnorm=9.455e-01 integral=0.027614 lam=300.0
+n=10 ep=4000 E=8.926243 L=3.941e+00 LPDE=3.842e+00 Lnorm=3.325e-04 integral=1.018234 lam=300.0
+n=10 ep=8000 E=8.323149 L=3.192e+00 LPDE=3.173e+00 Lnorm=6.269e-05 integral=1.007918 lam=300.0
+n=10 ep=12000 E=7.771251 L=2.641e+00 LPDE=2.638e+00 Lnorm=8.753e-06 integral=1.002959 lam=300.0
+n=10 ep=16000 E=7.279706 L=3.850e-01 LPDE=3.846e-01 Lnorm=5.316e-06 integral=0.997694 lam=80.0
+n=10 ep=20000 E=7.056352 L=3.324e-01 LPDE=3.320e-01 Lnorm=4.405e-06 integral=0.997901 lam=80.0
+
+===== n=11 seed=11 =====
+Usando device: cuda
+n=11 ep=1 E=10.500000 L=3.000e+02 LPDE=3.613e-04 Lnorm=9.999e-01 integral=0.000064 lam=300.0
+n=11 ep=4000 E=9.525478 L=4.432e+00 LPDE=4.431e+00 Lnorm=9.710e-07 integral=1.000985 lam=300.0
+n=11 ep=8000 E=8.718306 L=7.852e-01 LPDE=7.697e-01 Lnorm=5.170e-05 integral=0.992810 lam=300.0
+n=11 ep=12000 E=8.294648 L=6.485e-01 LPDE=6.452e-01 Lnorm=1.084e-05 integral=0.996707 lam=300.0
+n=11 ep=16000 E=7.824085 L=5.232e-01 LPDE=5.223e-01 Lnorm=1.191e-05 integral=0.996550 lam=80.0
+n=11 ep=20000 E=7.594335 L=4.653e-01 LPDE=4.646e-01 Lnorm=8.785e-06 integral=0.997036 lam=80.0
+
+===== n=12 seed=12 =====
+Usando device: cuda
+n=12 ep=1 E=11.500000 L=3.000e+02 LPDE=3.219e-04 Lnorm=9.999e-01 integral=0.000046 lam=300.0
+n=12 ep=4000 E=10.519167 L=5.691e+00 LPDE=5.631e+00 Lnorm=2.019e-04 integral=0.985791 lam=300.0
+n=12 ep=8000 E=9.599252 L=4.525e+00 LPDE=4.488e+00 Lnorm=1.237e-04 integral=0.988879 lam=300.0
+n=12 ep=12000 E=8.879863 L=6.903e-01 LPDE=6.899e-01 Lnorm=1.335e-06 integral=0.998845 lam=300.0
+n=12 ep=16000 E=8.564596 L=4.855e-01 LPDE=4.845e-01 Lnorm=1.246e-05 integral=0.996471 lam=80.0
+n=12 ep=20000 E=8.744559 L=2.632e-01 LPDE=2.628e-01 Lnorm=4.695e-06 integral=0.997833 lam=80.0
+
+===== n=13 seed=13 =====
+Usando device: cuda
+n=13 ep=1 E=12.500000 L=2.992e+02 LPDE=1.207e-02 Lnorm=9.973e-01 integral=0.001368 lam=300.0
+n=13 ep=4000 E=11.932660 L=7.888e+00 LPDE=7.583e+00 Lnorm=1.016e-03 integral=0.968132 lam=300.0
+n=13 ep=8000 E=11.254510 L=6.781e+00 LPDE=6.615e+00 Lnorm=5.551e-04 integral=0.976438 lam=300.0
+n=13 ep=12000 E=10.668752 L=5.910e+00 LPDE=5.811e+00 Lnorm=3.313e-04 integral=0.981799 lam=300.0
+n=13 ep=16000 E=10.271208 L=7.299e-01 LPDE=7.279e-01 Lnorm=2.550e-05 integral=0.994951 lam=80.0
+n=13 ep=20000 E=10.161252 L=6.144e-01 LPDE=6.126e-01 Lnorm=2.183e-05 integral=0.995328 lam=80.0
+
+===== n=14 seed=14 =====
+Usando device: cuda
+n=14 ep=1 E=13.500000 L=2.965e+02 LPDE=6.169e-02 Lnorm=9.883e-01 integral=0.005885 lam=300.0
+n=14 ep=4000 E=12.793517 L=9.248e+00 LPDE=8.903e+00 Lnorm=1.151e-03 integral=0.966071 lam=300.0
+n=14 ep=8000 E=12.067910 L=7.999e+00 LPDE=7.796e+00 Lnorm=6.767e-04 integral=0.973986 lam=300.0
+n=14 ep=12000 E=11.434997 L=7.000e+00 LPDE=6.876e+00 Lnorm=4.136e-04 integral=0.979663 lam=300.0
+n=14 ep=16000 E=10.887604 L=5.528e+00 LPDE=5.419e+00 Lnorm=1.367e-03 integral=0.963025 lam=80.0
+n=14 ep=20000 E=10.733156 L=4.011e+00 LPDE=3.930e+00 Lnorm=1.017e-03 integral=0.968114 lam=80.0
+
+===== n=15 seed=15 =====
+Usando device: cuda
+n=15 ep=1 E=14.500000 L=2.999e+02 LPDE=2.157e-03 Lnorm=9.997e-01 integral=0.000173 lam=300.0
+n=15 ep=4000 E=13.623720 L=1.505e+00 LPDE=1.504e+00 Lnorm=2.152e-06 integral=1.001467 lam=300.0
+n=15 ep=8000 E=13.063863 L=1.051e+00 LPDE=1.050e+00 Lnorm=5.374e-06 integral=0.997682 lam=300.0
+n=15 ep=12000 E=12.579265 L=9.399e-01 LPDE=9.396e-01 Lnorm=9.579e-07 integral=0.999021 lam=300.0
+n=15 ep=16000 E=12.115763 L=7.066e-01 LPDE=7.048e-01 Lnorm=2.255e-05 integral=0.995252 lam=80.0
+n=15 ep=20000 E=11.893557 L=6.503e-01 LPDE=6.488e-01 Lnorm=1.883e-05 integral=0.995661 lam=80.0
+
+===== n=16 seed=16 =====
+Usando device: cuda
+n=16 ep=1 E=15.500000 L=2.992e+02 LPDE=2.020e-02 Lnorm=9.972e-01 integral=0.001392 lam=300.0
+n=16 ep=4000 E=14.515205 L=1.235e+01 LPDE=1.232e+01 Lnorm=8.951e-05 integral=0.990539 lam=300.0
+n=16 ep=8000 E=13.575171 L=1.054e+01 LPDE=1.050e+01 Lnorm=1.118e-04 integral=0.989425 lam=300.0
+n=16 ep=12000 E=12.868807 L=9.274e+00 LPDE=9.242e+00 Lnorm=1.085e-04 integral=0.989582 lam=300.0
+n=16 ep=16000 E=12.451260 L=8.679e-01 LPDE=8.653e-01 Lnorm=3.190e-05 integral=0.994352 lam=80.0
+n=16 ep=20000 E=12.217858 L=7.199e-01 LPDE=7.181e-01 Lnorm=2.217e-05 integral=0.995292 lam=80.0
+
+===== n=17 seed=17 =====
+Usando device: cuda
+n=17 ep=1 E=16.500000 L=2.359e+02 LPDE=1.981e+00 Lnorm=7.798e-01 integral=0.116948 lam=300.0
+n=17 ep=4000 E=15.608332 L=1.681e+00 LPDE=1.680e+00 Lnorm=3.520e-06 integral=0.998124 lam=300.0
+n=17 ep=8000 E=15.093033 L=1.369e+00 LPDE=1.369e+00 Lnorm=5.839e-07 integral=0.999236 lam=300.0
+n=17 ep=12000 E=14.657759 L=1.184e+00 LPDE=1.183e+00 Lnorm=2.871e-06 integral=0.998306 lam=300.0
+n=17 ep=16000 E=14.208506 L=1.040e+00 LPDE=1.037e+00 Lnorm=4.946e-05 integral=0.992967 lam=80.0
+n=17 ep=20000 E=13.967908 L=9.516e-01 LPDE=9.481e-01 Lnorm=4.411e-05 integral=0.993358 lam=80.0
+
+===== n=18 seed=18 =====
+Usando device: cuda
+n=18 ep=1 E=17.500000 L=2.838e+02 LPDE=5.433e-01 Lnorm=9.442e-01 integral=0.028284 lam=300.0
+n=18 ep=4000 E=16.664146 L=1.693e+01 LPDE=1.655e+01 Lnorm=1.259e-03 integral=0.964512 lam=300.0
+n=18 ep=8000 E=15.764588 L=1.492e+01 LPDE=1.459e+01 Lnorm=1.084e-03 integral=0.967082 lam=300.0
+n=18 ep=12000 E=15.064789 L=1.344e+01 LPDE=1.338e+01 Lnorm=2.081e-04 integral=0.985574 lam=300.0
+n=18 ep=16000 E=14.602721 L=1.173e+00 LPDE=1.169e+00 Lnorm=5.546e-05 integral=0.992553 lam=80.0
+n=18 ep=20000 E=14.499326 L=1.132e+00 LPDE=1.128e+00 Lnorm=5.221e-05 integral=0.992774 lam=80.0
+
+===== n=19 seed=19 =====
+Usando device: cuda
+n=19 ep=1 E=18.500000 L=2.962e+02 LPDE=1.454e-01 Lnorm=9.868e-01 integral=0.006608 lam=300.0
+n=19 ep=4000 E=17.783779 L=1.766e+00 LPDE=1.747e+00 Lnorm=6.440e-05 integral=0.991975 lam=300.0
+n=19 ep=8000 E=17.193764 L=1.525e+00 LPDE=1.519e+00 Lnorm=2.219e-05 integral=0.995289 lam=300.0
+n=19 ep=12000 E=16.567423 L=1.390e+00 LPDE=1.389e+00 Lnorm=2.670e-06 integral=0.998366 lam=300.0
+n=19 ep=16000 E=16.035187 L=1.260e+00 LPDE=1.254e+00 Lnorm=8.023e-05 integral=0.991043 lam=80.0
+n=19 ep=20000 E=15.823747 L=1.172e+00 LPDE=1.167e+00 Lnorm=6.707e-05 integral=0.991810 lam=80.0
+
+===== n=20 seed=20 =====
+Usando device: cuda
+n=20 ep=1 E=19.500000 L=2.895e+02 LPDE=4.542e-01 Lnorm=9.634e-01 integral=0.018484 lam=300.0
+n=20 ep=4000 E=18.351612 L=2.104e+01 LPDE=2.047e+01 Lnorm=1.919e-03 integral=0.956188 lam=300.0
+n=20 ep=8000 E=17.399506 L=1.866e+01 LPDE=1.824e+01 Lnorm=1.407e-03 integral=0.962487 lam=300.0
+n=20 ep=12000 E=16.685572 L=1.696e+01 LPDE=1.664e+01 Lnorm=1.079e-03 integral=0.967157 lam=300.0
+n=20 ep=16000 E=16.354727 L=9.463e-01 LPDE=9.432e-01 Lnorm=3.900e-05 integral=0.993755 lam=80.0
+n=20 ep=20000 E=16.162264 L=8.842e-01 LPDE=8.816e-01 Lnorm=3.329e-05 integral=0.994230 lam=80.0
+
+--- Seed 1 ---
+
+===== n=1 seed=101 =====
+Usando device: cuda
+n=1 ep=1 E=0.500000 L=3.669e+01 LPDE=1.232e-02 Lnorm=9.169e-01 integral=0.042438 lam=40.0
+n=1 ep=1600 E=0.710438 L=1.868e-02 LPDE=1.069e-02 Lnorm=2.000e-04 integral=0.985859 lam=40.0
+n=1 ep=3200 E=0.750418 L=1.321e-02 LPDE=1.043e-02 Lnorm=6.950e-05 integral=0.991664 lam=40.0
+n=1 ep=4800 E=0.750179 L=1.320e-02 LPDE=1.037e-02 Lnorm=7.084e-05 integral=0.991583 lam=40.0
+n=1 ep=6400 E=0.741912 L=1.031e-02 LPDE=7.698e-03 Lnorm=2.612e-04 integral=0.983838 lam=10.0
+n=1 ep=8000 E=0.718399 L=3.081e-03 LPDE=3.081e-03 Lnorm=4.387e-08 integral=0.999791 lam=10.0
+
+===== n=2 seed=102 =====
+Usando device: cuda
+n=2 ep=1 E=1.500000 L=3.840e+01 LPDE=6.365e-03 Lnorm=9.599e-01 integral=0.020273 lam=40.0
+n=2 ep=2000 E=2.177682 L=4.516e-02 LPDE=3.095e-02 Lnorm=3.551e-04 integral=0.981157 lam=40.0
+n=2 ep=4000 E=2.191184 L=2.043e-02 LPDE=1.434e-02 Lnorm=1.523e-04 integral=0.987659 lam=40.0
+n=2 ep=6000 E=2.164667 L=1.534e-02 LPDE=1.130e-02 Lnorm=1.010e-04 integral=1.010048 lam=40.0
+n=2 ep=8000 E=2.147794 L=7.604e-03 LPDE=7.602e-03 Lnorm=1.614e-07 integral=1.000402 lam=15.0
+n=2 ep=10000 E=2.144536 L=6.857e-03 LPDE=6.855e-03 Lnorm=8.165e-08 integral=0.999714 lam=15.0
+
+===== n=3 seed=103 =====
+Usando device: cuda
+n=3 ep=1 E=2.500000 L=2.962e+02 LPDE=2.389e-04 Lnorm=9.873e-01 integral=0.006379 lam=300.0
+n=3 ep=3000 E=2.257638 L=3.474e-02 LPDE=3.300e-02 Lnorm=5.812e-06 integral=0.997589 lam=300.0
+n=3 ep=6000 E=2.256711 L=8.868e-02 LPDE=3.247e-02 Lnorm=1.874e-04 integral=0.986312 lam=300.0
+n=3 ep=9000 E=2.256407 L=4.805e-02 LPDE=3.261e-02 Lnorm=5.147e-05 integral=0.992826 lam=300.0
+n=3 ep=12000 E=2.255155 L=3.266e-02 LPDE=3.249e-02 Lnorm=2.211e-06 integral=0.998513 lam=80.0
+n=3 ep=15000 E=2.254428 L=3.235e-02 LPDE=3.235e-02 Lnorm=4.204e-08 integral=0.999795 lam=80.0
+
+===== n=4 seed=104 =====
+Usando device: cuda
+n=4 ep=1 E=3.500000 L=2.776e+02 LPDE=1.288e-02 Lnorm=9.254e-01 integral=0.038048 lam=300.0
+n=4 ep=4000 E=2.843667 L=1.012e-01 LPDE=6.081e-02 Lnorm=1.346e-04 integral=0.988396 lam=300.0
+n=4 ep=8000 E=2.491189 L=4.237e-02 LPDE=3.683e-02 Lnorm=1.848e-05 integral=1.004299 lam=300.0
+n=4 ep=12000 E=2.270477 L=3.346e-02 LPDE=3.167e-02 Lnorm=5.991e-06 integral=1.002448 lam=300.0
+n=4 ep=16000 E=2.187000 L=1.631e-02 LPDE=1.554e-02 Lnorm=9.525e-06 integral=0.996914 lam=80.0
+n=4 ep=20000 E=2.161621 L=1.056e-02 LPDE=1.056e-02 Lnorm=1.164e-08 integral=0.999892 lam=80.0
+
+===== n=5 seed=105 =====
+Usando device: cuda
+n=5 ep=1 E=4.500000 L=2.983e+02 LPDE=1.307e-03 Lnorm=9.942e-01 integral=0.002896 lam=300.0
+n=5 ep=4000 E=3.873681 L=2.509e-01 LPDE=2.504e-01 Lnorm=1.660e-06 integral=0.998712 lam=300.0
+n=5 ep=8000 E=3.368537 L=1.378e-01 LPDE=1.357e-01 Lnorm=7.074e-06 integral=0.997340 lam=300.0
+n=5 ep=12000 E=2.979309 L=1.028e-01 LPDE=7.728e-02 Lnorm=8.500e-05 integral=1.009220 lam=300.0
+n=5 ep=16000 E=2.589222 L=4.188e-02 LPDE=4.188e-02 Lnorm=5.427e-09 integral=0.999926 lam=80.0
+n=5 ep=20000 E=2.418717 L=3.449e-02 LPDE=3.449e-02 Lnorm=4.561e-08 integral=0.999786 lam=80.0
+
+===== n=6 seed=106 =====
+Usando device: cuda
+n=6 ep=1 E=5.500000 L=2.968e+02 LPDE=5.573e-03 Lnorm=9.892e-01 integral=0.005428 lam=300.0
+n=6 ep=4000 E=4.907715 L=9.193e-01 LPDE=7.748e-01 Lnorm=4.817e-04 integral=1.021948 lam=300.0
+n=6 ep=8000 E=4.383617 L=4.222e-01 LPDE=4.116e-01 Lnorm=3.550e-05 integral=1.005958 lam=300.0
+n=6 ep=12000 E=3.790662 L=2.307e-01 LPDE=2.284e-01 Lnorm=7.669e-06 integral=0.997231 lam=300.0
+n=6 ep=16000 E=3.280285 L=1.204e-01 LPDE=1.198e-01 Lnorm=7.579e-06 integral=0.997247 lam=80.0
+n=6 ep=20000 E=3.044515 L=7.722e-02 LPDE=7.718e-02 Lnorm=4.659e-07 integral=0.999317 lam=80.0
+
+===== n=7 seed=107 =====
+Usando device: cuda
+n=7 ep=1 E=6.500000 L=2.949e+02 LPDE=1.323e-02 Lnorm=9.828e-01 integral=0.008625 lam=300.0
+n=7 ep=4000 E=5.617675 L=9.767e-01 LPDE=9.668e-01 Lnorm=3.274e-05 integral=0.994278 lam=300.0
+n=7 ep=8000 E=4.754354 L=5.540e-01 LPDE=5.487e-01 Lnorm=1.770e-05 integral=0.995793 lam=300.0
+n=7 ep=12000 E=4.107833 L=3.192e-01 LPDE=3.166e-01 Lnorm=8.527e-06 integral=0.997080 lam=300.0
+n=7 ep=16000 E=3.708426 L=2.149e-01 LPDE=2.066e-01 Lnorm=1.038e-04 integral=0.989812 lam=80.0
+n=7 ep=20000 E=3.484366 L=1.600e-01 LPDE=1.584e-01 Lnorm=1.917e-05 integral=0.995622 lam=80.0
+
+===== n=8 seed=108 =====
+Usando device: cuda
+n=8 ep=1 E=7.500000 L=2.272e+02 LPDE=3.126e-01 Lnorm=7.563e-01 integral=0.130319 lam=300.0
+n=8 ep=4000 E=6.580924 L=1.401e+00 LPDE=1.300e+00 Lnorm=3.360e-04 integral=1.018331 lam=300.0
+n=8 ep=8000 E=6.173486 L=2.066e-01 LPDE=2.066e-01 Lnorm=1.351e-08 integral=0.999884 lam=300.0
+n=8 ep=12000 E=5.856276 L=1.730e-01 LPDE=1.695e-01 Lnorm=1.173e-05 integral=0.996575 lam=300.0
+n=8 ep=16000 E=5.558588 L=1.419e-01 LPDE=1.419e-01 Lnorm=1.863e-07 integral=0.999568 lam=80.0
+n=8 ep=20000 E=5.499235 L=1.313e-01 LPDE=1.312e-01 Lnorm=8.986e-07 integral=0.999052 lam=80.0
+
+===== n=9 seed=109 =====
+Usando device: cuda
+n=9 ep=1 E=8.500000 L=2.975e+02 LPDE=1.387e-02 Lnorm=9.916e-01 integral=0.004234 lam=300.0
+n=9 ep=4000 E=7.490157 L=2.307e+00 LPDE=2.307e+00 Lnorm=1.929e-08 integral=1.000139 lam=300.0
+n=9 ep=8000 E=6.905626 L=3.706e-01 LPDE=3.645e-01 Lnorm=2.041e-05 integral=0.995483 lam=300.0
+n=9 ep=12000 E=6.607954 L=2.935e-01 LPDE=2.905e-01 Lnorm=1.011e-05 integral=1.003180 lam=300.0
+n=9 ep=16000 E=6.225434 L=2.300e-01 LPDE=2.300e-01 Lnorm=6.726e-08 integral=0.999741 lam=80.0
+n=9 ep=20000 E=6.013501 L=1.985e-01 LPDE=1.984e-01 Lnorm=2.088e-06 integral=0.998555 lam=80.0
+
+===== n=10 seed=110 =====
+Usando device: cuda
+n=10 ep=1 E=9.500001 L=2.865e+02 LPDE=1.015e-01 Lnorm=9.546e-01 integral=0.022963 lam=300.0
+n=10 ep=4000 E=8.948307 L=4.205e+00 LPDE=3.915e+00 Lnorm=9.668e-04 integral=1.031093 lam=300.0
+n=10 ep=8000 E=8.359064 L=3.302e+00 LPDE=3.232e+00 Lnorm=2.308e-04 integral=1.015192 lam=300.0
+n=10 ep=12000 E=7.814565 L=2.681e+00 LPDE=2.662e+00 Lnorm=6.344e-05 integral=1.007965 lam=300.0
+n=10 ep=16000 E=7.325655 L=3.954e-01 LPDE=3.949e-01 Lnorm=6.187e-06 integral=0.997513 lam=80.0
+n=10 ep=20000 E=7.098614 L=3.423e-01 LPDE=3.419e-01 Lnorm=4.674e-06 integral=0.997838 lam=80.0
+
+===== n=11 seed=111 =====
+Usando device: cuda
+n=11 ep=1 E=10.500000 L=2.903e+02 LPDE=9.418e-02 Lnorm=9.672e-01 integral=0.016524 lam=300.0
+n=11 ep=4000 E=9.573673 L=1.006e+00 LPDE=1.005e+00 Lnorm=5.807e-06 integral=0.997590 lam=300.0
+n=11 ep=8000 E=9.067516 L=8.686e-01 LPDE=8.023e-01 Lnorm=2.209e-04 integral=1.014864 lam=300.0
+n=11 ep=12000 E=8.772848 L=5.655e-01 LPDE=5.650e-01 Lnorm=1.555e-06 integral=0.998753 lam=300.0
+n=11 ep=16000 E=8.326026 L=4.285e-01 LPDE=4.277e-01 Lnorm=1.009e-05 integral=0.996824 lam=80.0
+n=11 ep=20000 E=8.105887 L=3.803e-01 LPDE=3.797e-01 Lnorm=8.074e-06 integral=0.997159 lam=80.0
+
+===== n=12 seed=112 =====
+Usando device: cuda
+n=12 ep=1 E=11.500000 L=2.972e+02 LPDE=3.349e-02 Lnorm=9.906e-01 integral=0.004698 lam=300.0
+n=12 ep=4000 E=10.661756 L=5.889e+00 LPDE=5.813e+00 Lnorm=2.534e-04 integral=0.984081 lam=300.0
+n=12 ep=8000 E=9.749500 L=4.711e+00 LPDE=4.662e+00 Lnorm=1.620e-04 integral=0.987271 lam=300.0
+n=12 ep=12000 E=9.045761 L=3.894e+00 LPDE=3.864e+00 Lnorm=1.004e-04 integral=0.989978 lam=300.0
+n=12 ep=16000 E=8.481333 L=6.791e-01 LPDE=6.776e-01 Lnorm=1.885e-05 integral=0.995658 lam=80.0
+n=12 ep=20000 E=8.384677 L=5.161e-01 LPDE=5.151e-01 Lnorm=1.242e-05 integral=0.996476 lam=80.0
+
+===== n=13 seed=113 =====
+Usando device: cuda
+n=13 ep=1 E=12.500000 L=2.962e+02 LPDE=5.656e-02 Lnorm=9.872e-01 integral=0.006445 lam=300.0
+n=13 ep=4000 E=11.522945 L=7.150e+00 LPDE=6.988e+00 Lnorm=5.400e-04 integral=0.976763 lam=300.0
+n=13 ep=8000 E=10.969610 L=8.858e-01 LPDE=8.716e-01 Lnorm=4.713e-05 integral=0.993135 lam=300.0
+n=13 ep=12000 E=10.719962 L=7.364e-01 LPDE=7.345e-01 Lnorm=6.319e-06 integral=0.997486 lam=300.0
+n=13 ep=16000 E=10.276035 L=5.026e-01 LPDE=5.010e-01 Lnorm=2.053e-05 integral=0.995469 lam=80.0
+n=13 ep=20000 E=10.003460 L=3.707e-01 LPDE=3.701e-01 Lnorm=7.321e-06 integral=0.997294 lam=80.0
+
+===== n=14 seed=114 =====
+Usando device: cuda
+n=14 ep=1 E=13.500000 L=2.915e+02 LPDE=1.528e-01 Lnorm=9.710e-01 integral=0.014583 lam=300.0
+n=14 ep=4000 E=12.873541 L=9.377e+00 LPDE=9.041e+00 Lnorm=1.120e-03 integral=0.966530 lam=300.0
+n=14 ep=8000 E=12.132037 L=8.096e+00 LPDE=7.899e+00 Lnorm=6.557e-04 integral=0.974393 lam=300.0
+n=14 ep=12000 E=11.493409 L=7.085e+00 LPDE=6.964e+00 Lnorm=4.005e-04 integral=0.979989 lam=300.0
+n=14 ep=16000 E=10.960008 L=4.283e+00 LPDE=4.191e+00 Lnorm=1.153e-03 integral=0.966038 lam=80.0
+n=14 ep=20000 E=10.901321 L=6.041e-01 LPDE=6.026e-01 Lnorm=1.860e-05 integral=0.995687 lam=80.0
+
+===== n=15 seed=115 =====
+Usando device: cuda
+n=15 ep=1 E=14.500000 L=2.711e+02 LPDE=6.327e-01 Lnorm=9.015e-01 integral=0.050529 lam=300.0
+n=15 ep=4000 E=13.467323 L=1.047e+01 LPDE=1.015e+01 Lnorm=1.050e-03 integral=0.967597 lam=300.0
+n=15 ep=8000 E=12.786675 L=1.054e+00 LPDE=1.035e+00 Lnorm=6.629e-05 integral=0.991858 lam=300.0
+n=15 ep=12000 E=12.324144 L=9.052e-01 LPDE=9.021e-01 Lnorm=1.030e-05 integral=0.996791 lam=300.0
+n=15 ep=16000 E=11.846749 L=7.742e-01 LPDE=7.721e-01 Lnorm=2.622e-05 integral=0.994880 lam=80.0
+n=15 ep=20000 E=11.613921 L=7.178e-01 LPDE=7.160e-01 Lnorm=2.262e-05 integral=0.995244 lam=80.0
+
+===== n=16 seed=116 =====
+Usando device: cuda
+n=16 ep=1 E=15.500000 L=2.813e+02 LPDE=4.708e-01 Lnorm=9.361e-01 integral=0.032452 lam=300.0
+n=16 ep=4000 E=14.438158 L=1.217e+01 LPDE=1.209e+01 Lnorm=2.411e-04 integral=0.984473 lam=300.0
+n=16 ep=8000 E=13.506230 L=1.040e+01 LPDE=1.034e+01 Lnorm=1.904e-04 integral=0.986200 lam=300.0
+n=16 ep=12000 E=12.940454 L=9.681e-01 LPDE=9.673e-01 Lnorm=2.605e-06 integral=0.998386 lam=300.0
+n=16 ep=16000 E=12.470614 L=8.309e-01 LPDE=8.286e-01 Lnorm=2.820e-05 integral=0.994689 lam=80.0
+n=16 ep=20000 E=12.258591 L=6.568e-01 LPDE=6.553e-01 Lnorm=1.819e-05 integral=0.995734 lam=80.0
+
+===== n=17 seed=117 =====
+Usando device: cuda
+n=17 ep=1 E=16.500000 L=2.957e+02 LPDE=1.260e-01 Lnorm=9.852e-01 integral=0.007438 lam=300.0
+n=17 ep=4000 E=15.636935 L=1.488e+01 LPDE=1.426e+01 Lnorm=2.064e-03 integral=0.954569 lam=300.0
+n=17 ep=8000 E=14.814520 L=1.111e+01 LPDE=1.110e+01 Lnorm=3.446e-05 integral=0.994130 lam=300.0
+n=17 ep=12000 E=14.423490 L=1.273e+00 LPDE=1.271e+00 Lnorm=6.296e-06 integral=0.997491 lam=300.0
+n=17 ep=16000 E=14.010725 L=1.038e+00 LPDE=1.033e+00 Lnorm=5.954e-05 integral=0.992283 lam=80.0
+n=17 ep=20000 E=13.801405 L=9.213e-01 LPDE=9.179e-01 Lnorm=4.147e-05 integral=0.993560 lam=80.0
+
+===== n=18 seed=118 =====
+Usando device: cuda
+n=18 ep=1 E=17.500000 L=2.996e+02 LPDE=1.372e-02 Lnorm=9.986e-01 integral=0.000714 lam=300.0
+n=18 ep=4000 E=16.508898 L=1.663e+01 LPDE=1.658e+01 Lnorm=1.555e-04 integral=0.987531 lam=300.0
+n=18 ep=8000 E=15.597739 L=1.457e+01 LPDE=1.420e+01 Lnorm=1.242e-03 integral=0.964751 lam=300.0
+n=18 ep=12000 E=14.896766 L=1.308e+01 LPDE=1.298e+01 Lnorm=3.304e-04 integral=0.981823 lam=300.0
+n=18 ep=16000 E=14.353166 L=9.023e+00 LPDE=8.639e+00 Lnorm=4.804e-03 integral=0.930689 lam=80.0
+n=18 ep=20000 E=14.290559 L=1.125e+00 LPDE=1.121e+00 Lnorm=5.066e-05 integral=0.992882 lam=80.0
+
+===== n=19 seed=119 =====
+Usando device: cuda
+n=19 ep=1 E=18.500000 L=2.966e+02 LPDE=1.312e-01 Lnorm=9.881e-01 integral=0.005960 lam=300.0
+n=19 ep=4000 E=17.600216 L=1.774e+00 LPDE=1.742e+00 Lnorm=1.052e-04 integral=0.989741 lam=300.0
+n=19 ep=8000 E=17.155890 L=1.480e+00 LPDE=1.470e+00 Lnorm=3.512e-05 integral=1.005926 lam=300.0
+n=19 ep=12000 E=16.710649 L=1.329e+00 LPDE=1.327e+00 Lnorm=6.339e-06 integral=0.997482 lam=300.0
+n=19 ep=16000 E=16.214874 L=9.707e-01 LPDE=9.666e-01 Lnorm=5.137e-05 integral=0.992832 lam=80.0
+n=19 ep=20000 E=15.958536 L=8.194e-01 LPDE=8.171e-01 Lnorm=2.907e-05 integral=0.994608 lam=80.0
+
+===== n=20 seed=120 =====
+Usando device: cuda
+n=20 ep=1 E=19.500000 L=2.864e+02 LPDE=5.900e-01 Lnorm=9.526e-01 integral=0.024013 lam=300.0
+n=20 ep=4000 E=18.600698 L=2.170e+01 LPDE=2.151e+01 Lnorm=6.409e-04 integral=0.974684 lam=300.0
+n=20 ep=8000 E=17.679533 L=1.935e+01 LPDE=1.918e+01 Lnorm=5.927e-04 integral=0.975654 lam=300.0
+n=20 ep=12000 E=16.979773 L=1.766e+01 LPDE=1.725e+01 Lnorm=1.386e-03 integral=0.962777 lam=300.0
+n=20 ep=16000 E=16.505508 L=1.239e+01 LPDE=1.164e+01 Lnorm=9.451e-03 integral=0.902784 lam=80.0
+n=20 ep=20000 E=16.409065 L=9.345e-01 LPDE=9.315e-01 Lnorm=3.754e-05 integral=0.993873 lam=80.0
+
+--- Seed 2 ---
+
+===== n=1 seed=201 =====
+Usando device: cuda
+n=1 ep=1 E=0.500000 L=3.983e+01 LPDE=6.362e-04 Lnorm=9.956e-01 integral=0.002184 lam=40.0
+n=1 ep=1600 E=0.722459 L=1.081e-02 LPDE=1.073e-02 Lnorm=2.090e-06 integral=0.998554 lam=40.0
+n=1 ep=3200 E=0.750387 L=1.064e-02 LPDE=1.048e-02 Lnorm=3.796e-06 integral=0.998052 lam=40.0
+n=1 ep=4800 E=0.750162 L=1.069e-02 LPDE=1.048e-02 Lnorm=5.445e-06 integral=1.002333 lam=40.0
+n=1 ep=6400 E=0.719436 L=3.278e-03 LPDE=3.277e-03 Lnorm=4.790e-08 integral=0.999781 lam=10.0
+n=1 ep=8000 E=0.716797 L=2.733e-03 LPDE=2.733e-03 Lnorm=3.436e-08 integral=0.999815 lam=10.0
+
+===== n=2 seed=202 =====
+Usando device: cuda
+n=2 ep=1 E=1.500000 L=3.981e+01 LPDE=7.167e-04 Lnorm=9.952e-01 integral=0.002389 lam=40.0
+n=2 ep=2000 E=2.102230 L=3.897e-02 LPDE=3.398e-02 Lnorm=1.247e-04 integral=1.011167 lam=40.0
+n=2 ep=4000 E=2.210061 L=3.256e-02 LPDE=1.702e-02 Lnorm=3.885e-04 integral=0.980289 lam=40.0
+n=2 ep=6000 E=2.168818 L=1.278e-02 LPDE=1.185e-02 Lnorm=2.329e-05 integral=0.995174 lam=40.0
+n=2 ep=8000 E=2.152375 L=8.561e-03 LPDE=8.552e-03 Lnorm=5.546e-07 integral=0.999255 lam=15.0
+n=2 ep=10000 E=2.144238 L=6.775e-03 LPDE=6.774e-03 Lnorm=8.179e-08 integral=0.999714 lam=15.0
+
+===== n=3 seed=203 =====
+Usando device: cuda
+n=3 ep=1 E=2.500000 L=2.954e+02 LPDE=2.845e-04 Lnorm=9.845e-01 integral=0.007768 lam=300.0
+n=3 ep=3000 E=2.257126 L=2.299e-01 LPDE=3.206e-02 Lnorm=6.596e-04 integral=0.974317 lam=300.0
+n=3 ep=6000 E=2.256099 L=1.292e-01 LPDE=3.219e-02 Lnorm=3.233e-04 integral=0.982020 lam=300.0
+n=3 ep=9000 E=2.255837 L=3.684e-02 LPDE=3.283e-02 Lnorm=1.338e-05 integral=1.003658 lam=300.0
+n=3 ep=12000 E=2.254951 L=3.249e-02 LPDE=3.249e-02 Lnorm=1.786e-08 integral=1.000134 lam=80.0
+n=3 ep=15000 E=2.254212 L=3.230e-02 LPDE=3.229e-02 Lnorm=3.727e-08 integral=0.999807 lam=80.0
+
+===== n=4 seed=204 =====
+Usando device: cuda
+n=4 ep=1 E=3.500000 L=2.978e+02 LPDE=1.245e-03 Lnorm=9.927e-01 integral=0.003657 lam=300.0
+n=4 ep=4000 E=2.830594 L=6.030e-02 LPDE=6.026e-02 Lnorm=1.387e-07 integral=1.000372 lam=300.0
+n=4 ep=8000 E=2.447579 L=3.978e-02 LPDE=3.480e-02 Lnorm=1.661e-05 integral=0.995925 lam=300.0
+n=4 ep=12000 E=2.265845 L=3.564e-02 LPDE=3.167e-02 Lnorm=1.326e-05 integral=1.003641 lam=300.0
+n=4 ep=16000 E=2.198044 L=1.873e-02 LPDE=1.780e-02 Lnorm=1.157e-05 integral=0.996598 lam=80.0
+n=4 ep=20000 E=2.170427 L=1.239e-02 LPDE=1.239e-02 Lnorm=9.486e-09 integral=0.999903 lam=80.0
+
+===== n=5 seed=205 =====
+Usando device: cuda
+n=5 ep=1 E=4.500000 L=2.972e+02 LPDE=2.132e-03 Lnorm=9.906e-01 integral=0.004719 lam=300.0
+n=5 ep=4000 E=3.720108 L=2.119e-01 LPDE=2.110e-01 Lnorm=2.816e-06 integral=0.998322 lam=300.0
+n=5 ep=8000 E=3.080943 L=8.986e-02 LPDE=8.958e-02 Lnorm=9.172e-07 integral=0.999042 lam=300.0
+n=5 ep=12000 E=2.645148 L=5.679e-02 LPDE=4.578e-02 Lnorm=3.670e-05 integral=1.006058 lam=300.0
+n=5 ep=16000 E=2.347862 L=3.745e-02 LPDE=3.353e-02 Lnorm=4.906e-05 integral=1.007004 lam=80.0
+n=5 ep=20000 E=2.257894 L=3.235e-02 LPDE=3.234e-02 Lnorm=7.639e-08 integral=0.999724 lam=80.0
+
+===== n=6 seed=206 =====
+Usando device: cuda
+n=6 ep=1 E=5.500000 L=2.958e+02 LPDE=7.211e-03 Lnorm=9.861e-01 integral=0.006989 lam=300.0
+n=6 ep=4000 E=4.878824 L=6.108e-01 LPDE=6.024e-01 Lnorm=2.803e-05 integral=0.994706 lam=300.0
+n=6 ep=8000 E=4.113194 L=3.258e-01 LPDE=3.182e-01 Lnorm=2.517e-05 integral=0.994983 lam=300.0
+n=6 ep=12000 E=3.502802 L=1.679e-01 LPDE=1.632e-01 Lnorm=1.574e-05 integral=1.003967 lam=300.0
+n=6 ep=16000 E=3.004713 L=7.905e-02 LPDE=7.877e-02 Lnorm=3.536e-06 integral=0.998120 lam=80.0
+n=6 ep=20000 E=2.775856 L=4.206e-02 LPDE=4.205e-02 Lnorm=8.454e-08 integral=0.999709 lam=80.0
+
+===== n=7 seed=207 =====
+Usando device: cuda
+n=7 ep=1 E=6.500000 L=2.974e+02 LPDE=6.745e-03 Lnorm=9.911e-01 integral=0.004435 lam=300.0
+n=7 ep=4000 E=5.718844 L=1.029e+00 LPDE=1.026e+00 Lnorm=1.036e-05 integral=0.996782 lam=300.0
+n=7 ep=8000 E=5.038912 L=7.244e-01 LPDE=6.654e-01 Lnorm=1.968e-04 integral=0.985972 lam=300.0
+n=7 ep=12000 E=4.525295 L=4.754e-01 LPDE=4.601e-01 Lnorm=5.098e-05 integral=1.007140 lam=300.0
+n=7 ep=16000 E=4.125530 L=3.209e-01 LPDE=3.187e-01 Lnorm=2.803e-05 integral=0.994705 lam=80.0
+n=7 ep=20000 E=3.882293 L=2.524e-01 LPDE=2.522e-01 Lnorm=2.494e-06 integral=0.998421 lam=80.0
+
+===== n=8 seed=208 =====
+Usando device: cuda
+n=8 ep=1 E=7.500000 L=2.602e+02 LPDE=1.656e-01 Lnorm=8.666e-01 integral=0.069068 lam=300.0
+n=8 ep=4000 E=6.797938 L=1.953e+00 LPDE=1.872e+00 Lnorm=2.703e-04 integral=1.016440 lam=300.0
+n=8 ep=8000 E=6.114327 L=1.469e+00 LPDE=1.353e+00 Lnorm=3.866e-04 integral=0.980337 lam=300.0
+n=8 ep=12000 E=5.599194 L=9.628e-01 LPDE=9.628e-01 Lnorm=1.321e-08 integral=1.000115 lam=300.0
+n=8 ep=16000 E=5.242446 L=1.941e-01 LPDE=1.939e-01 Lnorm=2.205e-06 integral=0.998515 lam=80.0
+n=8 ep=20000 E=5.388328 L=1.320e-01 LPDE=1.319e-01 Lnorm=9.420e-07 integral=0.999029 lam=80.0
+
+===== n=9 seed=209 =====
+Usando device: cuda
+n=9 ep=1 E=8.500000 L=2.918e+02 LPDE=4.514e-02 Lnorm=9.727e-01 integral=0.013767 lam=300.0
+n=9 ep=4000 E=7.706724 L=2.547e+00 LPDE=2.526e+00 Lnorm=7.142e-05 integral=1.008451 lam=300.0
+n=9 ep=8000 E=6.933089 L=1.868e+00 LPDE=1.860e+00 Lnorm=2.621e-05 integral=1.005119 lam=300.0
+n=9 ep=12000 E=6.279090 L=1.388e+00 LPDE=1.359e+00 Lnorm=9.569e-05 integral=0.990218 lam=300.0
+n=9 ep=16000 E=5.894460 L=2.429e-01 LPDE=2.426e-01 Lnorm=3.834e-06 integral=0.998042 lam=80.0
+n=9 ep=20000 E=5.848880 L=2.030e-01 LPDE=2.028e-01 Lnorm=1.911e-06 integral=0.998618 lam=80.0
+
+===== n=10 seed=210 =====
+Usando device: cuda
+n=10 ep=1 E=9.500001 L=2.996e+02 LPDE=2.659e-03 Lnorm=9.988e-01 integral=0.000598 lam=300.0
+n=10 ep=4000 E=8.827946 L=3.760e+00 LPDE=3.713e+00 Lnorm=1.548e-04 integral=1.012443 lam=300.0
+n=10 ep=8000 E=8.082722 L=2.934e+00 LPDE=2.876e+00 Lnorm=1.910e-04 integral=0.986181 lam=300.0
+n=10 ep=12000 E=7.451398 L=2.300e+00 LPDE=2.300e+00 Lnorm=1.016e-06 integral=1.001008 lam=300.0
+n=10 ep=16000 E=6.970459 L=3.135e-01 LPDE=3.130e-01 Lnorm=6.225e-06 integral=0.997505 lam=80.0
+n=10 ep=20000 E=6.750488 L=2.649e-01 LPDE=2.646e-01 Lnorm=2.844e-06 integral=0.998314 lam=80.0
+
+===== n=11 seed=211 =====
+Usando device: cuda
+n=11 ep=1 E=10.500000 L=2.968e+02 LPDE=3.062e-02 Lnorm=9.893e-01 integral=0.005381 lam=300.0
+n=11 ep=4000 E=9.629670 L=1.034e+00 LPDE=1.032e+00 Lnorm=7.661e-06 integral=0.997232 lam=300.0
+n=11 ep=8000 E=9.200755 L=7.683e-01 LPDE=7.427e-01 Lnorm=8.506e-05 integral=1.009223 lam=300.0
+n=11 ep=12000 E=8.857615 L=5.293e-01 LPDE=5.292e-01 Lnorm=3.369e-07 integral=1.000580 lam=300.0
+n=11 ep=16000 E=8.379144 L=4.164e-01 LPDE=4.152e-01 Lnorm=1.535e-05 integral=0.996083 lam=80.0
+n=11 ep=20000 E=8.163301 L=3.739e-01 LPDE=3.733e-01 Lnorm=7.301e-06 integral=0.997298 lam=80.0
+
+===== n=12 seed=212 =====
+Usando device: cuda
+n=12 ep=1 E=11.500000 L=2.792e+02 LPDE=2.550e-01 Lnorm=9.297e-01 integral=0.035813 lam=300.0
+n=12 ep=4000 E=10.481323 L=5.647e+00 LPDE=5.574e+00 Lnorm=2.440e-04 integral=0.984381 lam=300.0
+n=12 ep=8000 E=9.580894 L=4.510e+00 LPDE=4.462e+00 Lnorm=1.589e-04 integral=0.987396 lam=300.0
+n=12 ep=12000 E=8.879818 L=3.715e+00 LPDE=3.685e+00 Lnorm=9.874e-05 integral=0.990063 lam=300.0
+n=12 ep=16000 E=8.364211 L=3.106e+00 LPDE=3.082e+00 Lnorm=3.016e-04 integral=0.982634 lam=80.0
+n=12 ep=20000 E=8.170884 L=5.474e-01 LPDE=5.464e-01 Lnorm=1.266e-05 integral=0.996442 lam=80.0
+
+===== n=13 seed=213 =====
+Usando device: cuda
+n=13 ep=1 E=12.500000 L=2.847e+02 LPDE=2.309e-01 Lnorm=9.481e-01 integral=0.026284 lam=300.0
+n=13 ep=4000 E=11.680250 L=7.391e+00 LPDE=7.269e+00 Lnorm=4.078e-04 integral=0.979805 lam=300.0
+n=13 ep=8000 E=11.101909 L=8.663e-01 LPDE=8.622e-01 Lnorm=1.382e-05 integral=0.996282 lam=300.0
+n=13 ep=12000 E=10.856446 L=7.157e-01 LPDE=7.119e-01 Lnorm=1.259e-05 integral=0.996451 lam=300.0
+n=13 ep=16000 E=10.440612 L=6.096e-01 LPDE=6.079e-01 Lnorm=2.083e-05 integral=0.995436 lam=80.0
+n=13 ep=20000 E=10.202270 L=5.160e-01 LPDE=5.148e-01 Lnorm=1.503e-05 integral=0.996124 lam=80.0
+
+===== n=14 seed=214 =====
+Usando device: cuda
+n=14 ep=1 E=13.500000 L=3.000e+02 LPDE=1.193e-04 Lnorm=1.000e+00 integral=0.000012 lam=300.0
+n=14 ep=4000 E=12.859641 L=9.392e+00 LPDE=8.987e+00 Lnorm=1.349e-03 integral=0.963267 lam=300.0
+n=14 ep=8000 E=12.134152 L=8.115e+00 LPDE=7.887e+00 Lnorm=7.603e-04 integral=0.972426 lam=300.0
+n=14 ep=12000 E=11.499597 L=7.100e+00 LPDE=6.965e+00 Lnorm=4.512e-04 integral=0.978760 lam=300.0
+n=14 ep=16000 E=10.936167 L=6.165e+00 LPDE=6.036e+00 Lnorm=1.608e-03 integral=0.959900 lam=80.0
+n=14 ep=20000 E=10.703003 L=5.850e+00 LPDE=5.738e+00 Lnorm=1.399e-03 integral=0.962595 lam=80.0
+
+===== n=15 seed=215 =====
+Usando device: cuda
+n=15 ep=1 E=14.500000 L=2.824e+02 LPDE=3.804e-01 Lnorm=9.401e-01 integral=0.030397 lam=300.0
+n=15 ep=4000 E=13.628997 L=1.583e+00 LPDE=1.579e+00 Lnorm=1.242e-05 integral=0.996475 lam=300.0
+n=15 ep=8000 E=13.096313 L=1.056e+00 LPDE=1.047e+00 Lnorm=3.024e-05 integral=0.994501 lam=300.0
+n=15 ep=12000 E=12.609493 L=9.402e-01 LPDE=9.379e-01 Lnorm=7.948e-06 integral=0.997181 lam=300.0
+n=15 ep=16000 E=12.132005 L=8.274e-01 LPDE=8.273e-01 Lnorm=1.890e-06 integral=0.998625 lam=80.0
+n=15 ep=20000 E=11.900955 L=7.712e-01 LPDE=7.692e-01 Lnorm=2.520e-05 integral=0.994980 lam=80.0
+
+===== n=16 seed=216 =====
+Usando device: cuda
+n=16 ep=1 E=15.500000 L=2.983e+02 LPDE=4.157e-02 Lnorm=9.943e-01 integral=0.002862 lam=300.0
+n=16 ep=4000 E=14.737835 L=1.284e+01 LPDE=1.284e+01 Lnorm=1.821e-05 integral=0.995732 lam=300.0
+n=16 ep=8000 E=13.915610 L=1.118e+01 LPDE=1.115e+01 Lnorm=9.919e-05 integral=0.990041 lam=300.0
+n=16 ep=12000 E=13.259562 L=9.964e+00 LPDE=9.925e+00 Lnorm=1.299e-04 integral=0.988601 lam=300.0
+n=16 ep=16000 E=12.702267 L=8.800e+00 LPDE=8.536e+00 Lnorm=3.290e-03 integral=0.942640 lam=80.0
+n=16 ep=20000 E=12.469913 L=8.427e+00 LPDE=8.191e+00 Lnorm=2.946e-03 integral=0.945726 lam=80.0
+
+===== n=17 seed=217 =====
+Usando device: cuda
+n=17 ep=1 E=16.500000 L=2.946e+02 LPDE=1.576e-01 Lnorm=9.815e-01 integral=0.009311 lam=300.0
+n=17 ep=4000 E=15.494757 L=1.444e+01 LPDE=1.405e+01 Lnorm=1.291e-03 integral=0.964066 lam=300.0
+n=17 ep=8000 E=14.953661 L=1.362e+00 LPDE=1.361e+00 Lnorm=5.609e-06 integral=0.997632 lam=300.0
+n=17 ep=12000 E=14.532445 L=1.209e+00 LPDE=1.207e+00 Lnorm=6.721e-06 integral=1.002592 lam=300.0
+n=17 ep=16000 E=14.093314 L=1.001e+00 LPDE=9.970e-01 Lnorm=4.633e-05 integral=0.993194 lam=80.0
+n=17 ep=20000 E=13.855149 L=9.187e-01 LPDE=9.155e-01 Lnorm=4.060e-05 integral=0.993628 lam=80.0
+
+===== n=18 seed=218 =====
+Usando device: cuda
+n=18 ep=1 E=17.500000 L=2.792e+02 LPDE=6.995e-01 Lnorm=9.285e-01 integral=0.036429 lam=300.0
+n=18 ep=4000 E=16.536051 L=1.664e+01 LPDE=1.653e+01 Lnorm=3.768e-04 integral=0.980588 lam=300.0
+n=18 ep=8000 E=15.586050 L=1.452e+01 LPDE=1.442e+01 Lnorm=3.532e-04 integral=0.981207 lam=300.0
+n=18 ep=12000 E=14.871272 L=1.303e+01 LPDE=1.293e+01 Lnorm=3.302e-04 integral=0.981828 lam=300.0
+n=18 ep=16000 E=14.384685 L=8.922e+00 LPDE=8.537e+00 Lnorm=4.807e-03 integral=0.930667 lam=80.0
+n=18 ep=20000 E=14.310071 L=2.640e+00 LPDE=2.415e+00 Lnorm=2.811e-03 integral=0.946980 lam=80.0
+
+===== n=19 seed=219 =====
+Usando device: cuda
+n=19 ep=1 E=18.500000 L=2.999e+02 LPDE=2.165e-03 Lnorm=9.998e-01 integral=0.000098 lam=300.0
+n=19 ep=4000 E=17.593483 L=1.933e+01 LPDE=1.918e+01 Lnorm=5.126e-04 integral=0.977360 lam=300.0
+n=19 ep=8000 E=16.738567 L=1.694e+01 LPDE=1.652e+01 Lnorm=1.402e-03 integral=0.962556 lam=300.0
+n=19 ep=12000 E=16.426065 L=1.416e+00 LPDE=1.406e+00 Lnorm=3.405e-05 integral=0.994164 lam=300.0
+n=19 ep=16000 E=15.942610 L=1.235e+00 LPDE=1.227e+00 Lnorm=9.662e-05 integral=0.990171 lam=80.0
+n=19 ep=20000 E=15.768938 L=1.106e+00 LPDE=1.101e+00 Lnorm=6.419e-05 integral=0.991988 lam=80.0
+
+===== n=20 seed=220 =====
+Usando device: cuda
+n=20 ep=1 E=19.500000 L=2.990e+02 LPDE=4.070e-02 Lnorm=9.967e-01 integral=0.001657 lam=300.0
+n=20 ep=4000 E=18.507078 L=2.144e+01 LPDE=2.085e+01 Lnorm=1.964e-03 integral=0.955688 lam=300.0
+n=20 ep=8000 E=17.552637 L=1.903e+01 LPDE=1.860e+01 Lnorm=1.439e-03 integral=0.962061 lam=300.0
+n=20 ep=12000 E=16.837751 L=1.732e+01 LPDE=1.699e+01 Lnorm=1.106e-03 integral=0.966737 lam=300.0
+n=20 ep=16000 E=16.416458 L=1.295e+00 LPDE=1.289e+00 Lnorm=6.778e-05 integral=0.991767 lam=80.0
+n=20 ep=20000 E=16.306925 L=1.201e+00 LPDE=1.196e+00 Lnorm=6.091e-05 integral=0.992195 lam=80.0
+
+--- Seed 3 ---
+
+===== n=1 seed=301 =====
+Usando device: cuda
+n=1 ep=1 E=0.500000 L=3.922e+01 LPDE=2.852e-03 Lnorm=9.804e-01 integral=0.009834 lam=40.0
+n=1 ep=1600 E=0.723060 L=1.147e-02 LPDE=1.069e-02 Lnorm=1.968e-05 integral=0.995564 lam=40.0
+n=1 ep=3200 E=0.751086 L=1.070e-02 LPDE=1.054e-02 Lnorm=4.160e-06 integral=1.002040 lam=40.0
+n=1 ep=4800 E=0.750195 L=1.080e-02 LPDE=1.049e-02 Lnorm=7.821e-06 integral=1.002797 lam=40.0
+n=1 ep=6400 E=0.750065 L=1.042e-02 LPDE=1.042e-02 Lnorm=2.837e-07 integral=0.999467 lam=10.0
+n=1 ep=8000 E=0.717784 L=2.949e-03 LPDE=2.949e-03 Lnorm=4.064e-08 integral=0.999798 lam=10.0
+
+===== n=2 seed=302 =====
+Usando device: cuda
+n=2 ep=1 E=1.500000 L=3.980e+01 LPDE=7.626e-04 Lnorm=9.950e-01 integral=0.002486 lam=40.0
+n=2 ep=2000 E=2.165108 L=3.237e-02 LPDE=2.033e-02 Lnorm=3.011e-04 integral=0.982647 lam=40.0
+n=2 ep=4000 E=2.168326 L=1.197e-02 LPDE=1.128e-02 Lnorm=1.702e-05 integral=0.995875 lam=40.0
+n=2 ep=6000 E=2.161983 L=1.660e-02 LPDE=1.078e-02 Lnorm=1.455e-04 integral=1.012062 lam=40.0
+n=2 ep=8000 E=2.151531 L=8.406e-03 LPDE=8.372e-03 Lnorm=2.250e-06 integral=1.001500 lam=15.0
+n=2 ep=10000 E=2.144005 L=6.724e-03 LPDE=6.723e-03 Lnorm=7.821e-08 integral=0.999720 lam=15.0
+
+===== n=3 seed=303 =====
+Usando device: cuda
+n=3 ep=1 E=2.500000 L=2.871e+02 LPDE=8.119e-04 Lnorm=9.569e-01 integral=0.021787 lam=300.0
+n=3 ep=3000 E=2.257573 L=7.795e-02 LPDE=3.271e-02 Lnorm=1.508e-04 integral=0.987719 lam=300.0
+n=3 ep=6000 E=2.256869 L=5.185e-02 LPDE=3.323e-02 Lnorm=6.207e-05 integral=1.007878 lam=300.0
+n=3 ep=9000 E=2.256461 L=4.313e-02 LPDE=3.306e-02 Lnorm=3.359e-05 integral=1.005795 lam=300.0
+n=3 ep=12000 E=2.255507 L=3.264e-02 LPDE=3.260e-02 Lnorm=4.021e-07 integral=0.999366 lam=80.0
+n=3 ep=15000 E=2.254599 L=3.239e-02 LPDE=3.239e-02 Lnorm=4.138e-08 integral=0.999797 lam=80.0
+
+===== n=4 seed=304 =====
+Usando device: cuda
+n=4 ep=1 E=3.500000 L=2.996e+02 LPDE=2.250e-04 Lnorm=9.987e-01 integral=0.000673 lam=300.0
+n=4 ep=4000 E=2.745608 L=5.298e-02 LPDE=5.266e-02 Lnorm=1.049e-06 integral=1.001024 lam=300.0
+n=4 ep=8000 E=2.366697 L=3.738e-02 LPDE=3.296e-02 Lnorm=1.471e-05 integral=1.003835 lam=300.0
+n=4 ep=12000 E=2.251300 L=3.266e-02 LPDE=3.136e-02 Lnorm=4.355e-06 integral=0.997913 lam=300.0
+n=4 ep=16000 E=2.165987 L=1.460e-02 LPDE=1.193e-02 Lnorm=3.339e-05 integral=1.005779 lam=80.0
+n=4 ep=20000 E=2.157302 L=1.026e-02 LPDE=9.999e-03 Lnorm=3.202e-06 integral=1.001789 lam=80.0
+
+===== n=5 seed=305 =====
+Usando device: cuda
+n=5 ep=1 E=4.500000 L=2.973e+02 LPDE=2.023e-03 Lnorm=9.911e-01 integral=0.004479 lam=300.0
+n=5 ep=4000 E=3.923816 L=3.756e-01 LPDE=2.694e-01 Lnorm=3.539e-04 integral=1.018811 lam=300.0
+n=5 ep=8000 E=3.422577 L=1.569e-01 LPDE=1.454e-01 Lnorm=3.808e-05 integral=0.993829 lam=300.0
+n=5 ep=12000 E=3.033860 L=9.661e-02 LPDE=8.401e-02 Lnorm=4.198e-05 integral=1.006479 lam=300.0
+n=5 ep=16000 E=2.692805 L=4.988e-02 LPDE=4.865e-02 Lnorm=1.540e-05 integral=0.996075 lam=80.0
+n=5 ep=20000 E=2.489930 L=3.712e-02 LPDE=3.711e-02 Lnorm=6.575e-08 integral=0.999744 lam=80.0
+
+===== n=6 seed=306 =====
+Usando device: cuda
+n=6 ep=1 E=5.500000 L=2.968e+02 LPDE=5.639e-03 Lnorm=9.893e-01 integral=0.005372 lam=300.0
+n=6 ep=4000 E=4.508178 L=4.523e-01 LPDE=4.520e-01 Lnorm=8.860e-07 integral=1.000941 lam=300.0
+n=6 ep=8000 E=3.721412 L=2.139e-01 LPDE=2.132e-01 Lnorm=2.331e-06 integral=1.001527 lam=300.0
+n=6 ep=12000 E=3.116660 L=9.496e-02 LPDE=9.474e-02 Lnorm=7.342e-07 integral=1.000857 lam=300.0
+n=6 ep=16000 E=2.757660 L=4.987e-02 LPDE=4.797e-02 Lnorm=2.368e-05 integral=1.004866 lam=80.0
+n=6 ep=20000 E=2.524062 L=2.262e-02 LPDE=2.262e-02 Lnorm=1.393e-08 integral=0.999882 lam=80.0
+
+===== n=7 seed=307 =====
+Usando device: cuda
+n=7 ep=1 E=6.500000 L=2.989e+02 LPDE=2.768e-03 Lnorm=9.964e-01 integral=0.001803 lam=300.0
+n=7 ep=4000 E=5.602250 L=1.001e+00 LPDE=9.738e-01 Lnorm=8.986e-05 integral=1.009480 lam=300.0
+n=7 ep=8000 E=4.795695 L=5.828e-01 LPDE=5.727e-01 Lnorm=3.363e-05 integral=1.005799 lam=300.0
+n=7 ep=12000 E=4.159848 L=3.393e-01 LPDE=3.356e-01 Lnorm=1.244e-05 integral=1.003527 lam=300.0
+n=7 ep=16000 E=3.665061 L=1.986e-01 LPDE=1.976e-01 Lnorm=1.255e-05 integral=0.996457 lam=80.0
+n=7 ep=20000 E=3.418285 L=1.454e-01 LPDE=1.453e-01 Lnorm=8.236e-07 integral=0.999092 lam=80.0
+
+===== n=8 seed=308 =====
+Usando device: cuda
+n=8 ep=1 E=7.500000 L=2.996e+02 LPDE=1.536e-03 Lnorm=9.987e-01 integral=0.000638 lam=300.0
+n=8 ep=4000 E=6.728827 L=1.792e+00 LPDE=1.779e+00 Lnorm=4.361e-05 integral=0.993396 lam=300.0
+n=8 ep=8000 E=5.936503 L=1.275e+00 LPDE=1.266e+00 Lnorm=2.880e-05 integral=0.994634 lam=300.0
+n=8 ep=12000 E=5.304590 L=9.364e-01 LPDE=9.310e-01 Lnorm=1.816e-05 integral=0.995738 lam=300.0
+n=8 ep=16000 E=4.857915 L=2.780e-01 LPDE=2.777e-01 Lnorm=4.333e-06 integral=0.997918 lam=80.0
+n=8 ep=20000 E=5.040765 L=1.495e-01 LPDE=1.494e-01 Lnorm=1.104e-06 integral=0.998949 lam=80.0
+
+===== n=9 seed=309 =====
+Usando device: cuda
+n=9 ep=1 E=8.500000 L=3.000e+02 LPDE=2.397e-05 Lnorm=1.000e+00 integral=0.000007 lam=300.0
+n=9 ep=4000 E=7.638250 L=2.437e+00 LPDE=2.436e+00 Lnorm=4.506e-06 integral=0.997877 lam=300.0
+n=9 ep=8000 E=7.044710 L=1.964e+00 LPDE=1.947e+00 Lnorm=5.605e-05 integral=1.007486 lam=300.0
+n=9 ep=12000 E=6.529623 L=5.476e-01 LPDE=5.460e-01 Lnorm=5.253e-06 integral=1.002292 lam=300.0
+n=9 ep=16000 E=6.236862 L=2.374e-01 LPDE=2.372e-01 Lnorm=3.087e-06 integral=0.998243 lam=80.0
+n=9 ep=20000 E=6.015197 L=2.038e-01 LPDE=2.037e-01 Lnorm=2.233e-06 integral=0.998506 lam=80.0
+
+===== n=10 seed=310 =====
+Usando device: cuda
+n=10 ep=1 E=9.500001 L=2.980e+02 LPDE=1.516e-02 Lnorm=9.932e-01 integral=0.003428 lam=300.0
+n=10 ep=4000 E=8.723982 L=3.592e+00 LPDE=3.491e+00 Lnorm=3.353e-04 integral=0.981688 lam=300.0
+n=10 ep=8000 E=7.991708 L=2.848e+00 LPDE=2.843e+00 Lnorm=1.810e-05 integral=1.004254 lam=300.0
+n=10 ep=12000 E=7.363440 L=2.201e+00 LPDE=2.201e+00 Lnorm=2.167e-08 integral=0.999853 lam=300.0
+n=10 ep=16000 E=6.870189 L=2.920e-01 LPDE=2.916e-01 Lnorm=5.176e-06 integral=0.997725 lam=80.0
+n=10 ep=20000 E=6.648446 L=2.453e-01 LPDE=2.451e-01 Lnorm=2.499e-06 integral=0.998419 lam=80.0
+
+===== n=11 seed=311 =====
+Usando device: cuda
+n=11 ep=1 E=10.500000 L=2.996e+02 LPDE=3.409e-03 Lnorm=9.988e-01 integral=0.000593 lam=300.0
+n=11 ep=4000 E=9.604706 L=4.527e+00 LPDE=4.526e+00 Lnorm=6.625e-07 integral=1.000814 lam=300.0
+n=11 ep=8000 E=8.813334 L=8.037e-01 LPDE=8.036e-01 Lnorm=3.069e-07 integral=0.999446 lam=300.0
+n=11 ep=12000 E=8.401027 L=6.722e-01 LPDE=6.715e-01 Lnorm=2.320e-06 integral=0.998477 lam=300.0
+n=11 ep=16000 E=7.962656 L=5.529e-01 LPDE=5.519e-01 Lnorm=1.303e-05 integral=0.996390 lam=80.0
+n=11 ep=20000 E=7.725480 L=4.939e-01 LPDE=4.931e-01 Lnorm=1.006e-05 integral=0.996828 lam=80.0
+
+===== n=12 seed=312 =====
+Usando device: cuda
+n=12 ep=1 E=11.500000 L=2.973e+02 LPDE=3.214e-02 Lnorm=9.910e-01 integral=0.004520 lam=300.0
+n=12 ep=4000 E=10.395656 L=5.527e+00 LPDE=5.469e+00 Lnorm=1.956e-04 integral=0.986013 lam=300.0
+n=12 ep=8000 E=9.479878 L=4.354e+00 LPDE=4.327e+00 Lnorm=9.004e-05 integral=0.990511 lam=300.0
+n=12 ep=12000 E=8.855268 L=6.985e-01 LPDE=6.981e-01 Lnorm=1.363e-06 integral=0.998832 lam=300.0
+n=12 ep=16000 E=8.489614 L=4.863e-01 LPDE=4.850e-01 Lnorm=1.625e-05 integral=0.995968 lam=80.0
+n=12 ep=20000 E=8.659930 L=2.445e-01 LPDE=2.442e-01 Lnorm=4.159e-06 integral=0.997961 lam=80.0
+
+===== n=13 seed=313 =====
+Usando device: cuda
+n=13 ep=1 E=12.500000 L=2.914e+02 LPDE=1.275e-01 Lnorm=9.711e-01 integral=0.014571 lam=300.0
+n=13 ep=4000 E=11.804617 L=9.356e-01 LPDE=9.314e-01 Lnorm=1.389e-05 integral=0.996273 lam=300.0
+n=13 ep=8000 E=11.369240 L=7.733e-01 LPDE=7.703e-01 Lnorm=1.019e-05 integral=1.003192 lam=300.0
+n=13 ep=12000 E=10.946634 L=7.004e-01 LPDE=6.961e-01 Lnorm=1.425e-05 integral=0.996225 lam=300.0
+n=13 ep=16000 E=10.519015 L=6.133e-01 LPDE=6.117e-01 Lnorm=2.063e-05 integral=0.995458 lam=80.0
+n=13 ep=20000 E=10.302808 L=5.653e-01 LPDE=5.639e-01 Lnorm=1.761e-05 integral=0.995804 lam=80.0
+
+===== n=14 seed=314 =====
+Usando device: cuda
+n=14 ep=1 E=13.500000 L=2.993e+02 LPDE=1.174e-02 Lnorm=9.978e-01 integral=0.001120 lam=300.0
+n=14 ep=4000 E=12.726413 L=9.051e+00 LPDE=8.886e+00 Lnorm=5.508e-04 integral=0.976531 lam=300.0
+n=14 ep=8000 E=11.809970 L=7.557e+00 LPDE=7.448e+00 Lnorm=3.632e-04 integral=0.980941 lam=300.0
+n=14 ep=12000 E=11.157792 L=6.198e+00 LPDE=6.084e+00 Lnorm=3.794e-04 integral=0.980523 lam=300.0
+n=14 ep=16000 E=10.758134 L=6.374e-01 LPDE=6.353e-01 Lnorm=2.618e-05 integral=0.994883 lam=80.0
+n=14 ep=20000 E=10.528351 L=5.041e-01 LPDE=5.031e-01 Lnorm=1.234e-05 integral=0.996487 lam=80.0
+
+===== n=15 seed=315 =====
+Usando device: cuda
+n=15 ep=1 E=14.500000 L=2.936e+02 LPDE=1.367e-01 Lnorm=9.783e-01 integral=0.010924 lam=300.0
+n=15 ep=4000 E=13.536526 L=9.636e+00 LPDE=9.636e+00 Lnorm=1.537e-07 integral=1.000392 lam=300.0
+n=15 ep=8000 E=12.978002 L=1.047e+00 LPDE=1.039e+00 Lnorm=2.407e-05 integral=1.004906 lam=300.0
+n=15 ep=12000 E=12.466592 L=9.148e-01 LPDE=9.136e-01 Lnorm=4.041e-06 integral=0.997990 lam=300.0
+n=15 ep=16000 E=11.996797 L=7.988e-01 LPDE=7.962e-01 Lnorm=3.264e-05 integral=0.994287 lam=80.0
+n=15 ep=20000 E=11.760006 L=6.903e-01 LPDE=6.887e-01 Lnorm=2.011e-05 integral=0.995516 lam=80.0
+
+===== n=16 seed=316 =====
+Usando device: cuda
+n=16 ep=1 E=15.500000 L=2.997e+02 LPDE=6.329e-03 Lnorm=9.991e-01 integral=0.000437 lam=300.0
+n=16 ep=4000 E=14.495302 L=1.229e+01 LPDE=1.204e+01 Lnorm=8.414e-04 integral=0.970993 lam=300.0
+n=16 ep=8000 E=13.551026 L=1.049e+01 LPDE=1.032e+01 Lnorm=5.631e-04 integral=0.976269 lam=300.0
+n=16 ep=12000 E=12.837845 L=9.222e+00 LPDE=9.105e+00 Lnorm=3.906e-04 integral=0.980235 lam=300.0
+n=16 ep=16000 E=12.409125 L=8.950e-01 LPDE=8.923e-01 Lnorm=3.314e-05 integral=0.994243 lam=80.0
+n=16 ep=20000 E=12.180085 L=7.954e-01 LPDE=7.934e-01 Lnorm=2.559e-05 integral=0.994941 lam=80.0
+
+===== n=17 seed=317 =====
+Usando device: cuda
+n=17 ep=1 E=16.500000 L=2.604e+02 LPDE=1.192e+00 Lnorm=8.642e-01 integral=0.070380 lam=300.0
+n=17 ep=4000 E=15.547647 L=1.609e+00 LPDE=1.608e+00 Lnorm=1.889e-06 integral=0.998626 lam=300.0
+n=17 ep=8000 E=15.057469 L=1.329e+00 LPDE=1.327e+00 Lnorm=8.113e-06 integral=0.997152 lam=300.0
+n=17 ep=12000 E=14.726098 L=1.182e+00 LPDE=1.182e+00 Lnorm=4.488e-09 integral=1.000067 lam=300.0
+n=17 ep=16000 E=14.192821 L=1.021e+00 LPDE=1.017e+00 Lnorm=5.148e-05 integral=0.992825 lam=80.0
+n=17 ep=20000 E=13.955044 L=9.401e-01 LPDE=9.367e-01 Lnorm=4.266e-05 integral=0.993468 lam=80.0
+
+===== n=18 seed=318 =====
+Usando device: cuda
+n=18 ep=1 E=17.500000 L=2.901e+02 LPDE=3.294e-01 Lnorm=9.660e-01 integral=0.017152 lam=300.0
+n=18 ep=4000 E=16.454515 L=1.645e+01 LPDE=1.608e+01 Lnorm=1.218e-03 integral=0.965106 lam=300.0
+n=18 ep=8000 E=15.501451 L=1.434e+01 LPDE=1.408e+01 Lnorm=8.563e-04 integral=0.970737 lam=300.0
+n=18 ep=12000 E=14.784710 L=1.285e+01 LPDE=1.266e+01 Lnorm=6.309e-04 integral=0.974882 lam=300.0
+n=18 ep=16000 E=14.429558 L=1.054e+00 LPDE=1.050e+00 Lnorm=4.835e-05 integral=0.993047 lam=80.0
+n=18 ep=20000 E=14.316025 L=7.916e-01 LPDE=7.893e-01 Lnorm=2.800e-05 integral=0.994709 lam=80.0
+
+===== n=19 seed=319 =====
+Usando device: cuda
+n=19 ep=1 E=18.500000 L=2.880e+02 LPDE=4.627e-01 Lnorm=9.584e-01 integral=0.021029 lam=300.0
+n=19 ep=4000 E=17.684937 L=1.959e+00 LPDE=1.958e+00 Lnorm=1.337e-06 integral=0.998844 lam=300.0
+n=19 ep=8000 E=17.160532 L=1.636e+00 LPDE=1.635e+00 Lnorm=2.579e-06 integral=0.998394 lam=300.0
+n=19 ep=12000 E=16.511873 L=1.471e+00 LPDE=1.465e+00 Lnorm=2.085e-05 integral=0.995433 lam=300.0
+n=19 ep=16000 E=15.960361 L=1.256e+00 LPDE=1.250e+00 Lnorm=7.537e-05 integral=0.991319 lam=80.0
+n=19 ep=20000 E=15.733074 L=9.788e-01 LPDE=9.749e-01 Lnorm=4.877e-05 integral=0.993017 lam=80.0
+
+===== n=20 seed=320 =====
+Usando device: cuda
+n=20 ep=1 E=19.500000 L=2.943e+02 LPDE=2.443e-01 Lnorm=9.802e-01 integral=0.009946 lam=300.0
+n=20 ep=4000 E=18.504408 L=2.149e+01 LPDE=2.068e+01 Lnorm=2.696e-03 integral=0.948080 lam=300.0
+n=20 ep=8000 E=17.575291 L=1.909e+01 LPDE=1.888e+01 Lnorm=6.898e-04 integral=0.973735 lam=300.0
+n=20 ep=12000 E=16.871550 L=1.740e+01 LPDE=1.722e+01 Lnorm=6.008e-04 integral=0.975488 lam=300.0
+n=20 ep=16000 E=16.311356 L=1.549e+01 LPDE=1.464e+01 Lnorm=1.065e-02 integral=0.896796 lam=80.0
+n=20 ep=20000 E=16.238096 L=1.278e+00 LPDE=1.273e+00 Lnorm=6.368e-05 integral=0.992020 lam=80.0
+
+--- Seed 4 ---
+
+===== n=1 seed=401 =====
+Usando device: cuda
+n=1 ep=1 E=0.500000 L=3.990e+01 LPDE=3.827e-04 Lnorm=9.974e-01 integral=0.001288 lam=40.0
+n=1 ep=1600 E=0.722014 L=1.319e-01 LPDE=1.135e-02 Lnorm=3.014e-03 integral=1.054899 lam=40.0
+n=1 ep=3200 E=0.750390 L=3.278e-02 LPDE=1.075e-02 Lnorm=5.506e-04 integral=1.023466 lam=40.0
+n=1 ep=4800 E=0.750157 L=1.046e-02 LPDE=1.045e-02 Lnorm=8.350e-08 integral=1.000289 lam=40.0
+n=1 ep=6400 E=0.720158 L=3.456e-03 LPDE=3.455e-03 Lnorm=5.845e-08 integral=0.999758 lam=10.0
+n=1 ep=8000 E=0.716777 L=2.726e-03 LPDE=2.726e-03 Lnorm=3.463e-08 integral=0.999814 lam=10.0
+
+===== n=2 seed=402 =====
+Usando device: cuda
+n=2 ep=1 E=1.500000 L=3.984e+01 LPDE=6.295e-04 Lnorm=9.960e-01 integral=0.001999 lam=40.0
+n=2 ep=2000 E=2.122906 L=6.236e-02 LPDE=3.174e-02 Lnorm=7.656e-04 integral=0.972331 lam=40.0
+n=2 ep=4000 E=2.169277 L=1.423e-02 LPDE=1.118e-02 Lnorm=7.630e-05 integral=1.008735 lam=40.0
+n=2 ep=6000 E=2.154096 L=1.107e-02 LPDE=9.020e-03 Lnorm=5.116e-05 integral=1.007153 lam=40.0
+n=2 ep=8000 E=2.147222 L=7.464e-03 LPDE=7.464e-03 Lnorm=2.947e-08 integral=0.999828 lam=15.0
+n=2 ep=10000 E=2.143622 L=6.640e-03 LPDE=6.639e-03 Lnorm=7.446e-08 integral=0.999727 lam=15.0
+
+===== n=3 seed=403 =====
+Usando device: cuda
+n=3 ep=1 E=2.500000 L=2.965e+02 LPDE=2.313e-04 Lnorm=9.882e-01 integral=0.005909 lam=300.0
+n=3 ep=3000 E=2.256415 L=3.540e-02 LPDE=3.274e-02 Lnorm=8.876e-06 integral=0.997021 lam=300.0
+n=3 ep=6000 E=2.255851 L=3.572e-02 LPDE=3.261e-02 Lnorm=1.040e-05 integral=0.996776 lam=300.0
+n=3 ep=9000 E=2.255621 L=3.382e-02 LPDE=3.272e-02 Lnorm=3.684e-06 integral=1.001919 lam=300.0
+n=3 ep=12000 E=2.254795 L=3.244e-02 LPDE=3.244e-02 Lnorm=6.922e-08 integral=0.999737 lam=80.0
+n=3 ep=15000 E=2.254160 L=3.228e-02 LPDE=3.228e-02 Lnorm=4.253e-08 integral=0.999794 lam=80.0
+
+===== n=4 seed=404 =====
+Usando device: cuda
+n=4 ep=1 E=3.500000 L=2.861e+02 LPDE=8.082e-03 Lnorm=9.536e-01 integral=0.023484 lam=300.0
+n=4 ep=4000 E=2.893888 L=6.803e-02 LPDE=6.677e-02 Lnorm=4.200e-06 integral=1.002049 lam=300.0
+n=4 ep=8000 E=2.479781 L=5.384e-02 LPDE=3.587e-02 Lnorm=5.990e-05 integral=0.992260 lam=300.0
+n=4 ep=12000 E=2.272861 L=3.409e-02 LPDE=3.163e-02 Lnorm=8.202e-06 integral=1.002864 lam=300.0
+n=4 ep=16000 E=2.210420 L=2.039e-02 LPDE=2.028e-02 Lnorm=1.321e-06 integral=1.001149 lam=80.0
+n=4 ep=20000 E=2.170201 L=1.232e-02 LPDE=1.232e-02 Lnorm=3.629e-08 integral=0.999810 lam=80.0
+
+===== n=5 seed=405 =====
+Usando device: cuda
+n=5 ep=1 E=4.500000 L=2.944e+02 LPDE=4.241e-03 Lnorm=9.813e-01 integral=0.009399 lam=300.0
+n=5 ep=4000 E=3.729283 L=2.616e-01 LPDE=2.163e-01 Lnorm=1.512e-04 integral=1.012296 lam=300.0
+n=5 ep=8000 E=3.078325 L=1.111e-01 LPDE=9.017e-02 Lnorm=6.993e-05 integral=1.008362 lam=300.0
+n=5 ep=12000 E=2.643466 L=5.383e-02 LPDE=4.572e-02 Lnorm=2.701e-05 integral=1.005197 lam=300.0
+n=5 ep=16000 E=2.350905 L=3.351e-02 LPDE=3.340e-02 Lnorm=1.419e-06 integral=1.001191 lam=80.0
+n=5 ep=20000 E=2.257959 L=3.215e-02 LPDE=3.215e-02 Lnorm=4.168e-08 integral=0.999796 lam=80.0
+
+===== n=6 seed=406 =====
+Usando device: cuda
+n=6 ep=1 E=5.500000 L=3.000e+02 LPDE=1.564e-06 Lnorm=1.000e+00 integral=0.000002 lam=300.0
+n=6 ep=4000 E=4.696601 L=5.311e-01 LPDE=5.293e-01 Lnorm=6.057e-06 integral=1.002461 lam=300.0
+n=6 ep=8000 E=3.893025 L=2.578e-01 LPDE=2.563e-01 Lnorm=5.067e-06 integral=1.002251 lam=300.0
+n=6 ep=12000 E=3.275373 L=1.212e-01 LPDE=1.201e-01 Lnorm=3.434e-06 integral=1.001853 lam=300.0
+n=6 ep=16000 E=2.855120 L=5.952e-02 LPDE=5.948e-02 Lnorm=5.865e-07 integral=1.000766 lam=80.0
+n=6 ep=20000 E=2.643341 L=3.062e-02 LPDE=3.062e-02 Lnorm=2.084e-08 integral=0.999856 lam=80.0
+
+===== n=7 seed=407 =====
+Usando device: cuda
+n=7 ep=1 E=6.500000 L=2.725e+02 LPDE=7.222e-02 Lnorm=9.079e-01 integral=0.047139 lam=300.0
+n=7 ep=4000 E=5.801262 L=1.208e+00 LPDE=1.099e+00 Lnorm=3.627e-04 integral=1.019044 lam=300.0
+n=7 ep=8000 E=5.118696 L=7.158e-01 LPDE=7.121e-01 Lnorm=1.250e-05 integral=0.996465 lam=300.0
+n=7 ep=12000 E=4.544718 L=4.716e-01 LPDE=4.667e-01 Lnorm=1.638e-05 integral=0.995953 lam=300.0
+n=7 ep=16000 E=4.065337 L=3.061e-01 LPDE=3.058e-01 Lnorm=3.949e-06 integral=1.001987 lam=80.0
+n=7 ep=20000 E=3.822070 L=2.368e-01 LPDE=2.367e-01 Lnorm=2.199e-06 integral=0.998517 lam=80.0
+
+===== n=8 seed=408 =====
+Usando device: cuda
+n=8 ep=1 E=7.500000 L=2.986e+02 LPDE=5.705e-03 Lnorm=9.953e-01 integral=0.002376 lam=300.0
+n=8 ep=4000 E=6.780484 L=1.862e+00 LPDE=1.803e+00 Lnorm=1.971e-04 integral=0.985960 lam=300.0
+n=8 ep=8000 E=6.122375 L=1.412e+00 LPDE=1.395e+00 Lnorm=5.384e-05 integral=1.007338 lam=300.0
+n=8 ep=12000 E=5.651740 L=1.010e+00 LPDE=9.825e-01 Lnorm=9.184e-05 integral=0.990417 lam=300.0
+n=8 ep=16000 E=5.348170 L=1.544e-01 LPDE=1.540e-01 Lnorm=4.591e-06 integral=0.997857 lam=80.0
+n=8 ep=20000 E=5.455340 L=1.307e-01 LPDE=1.306e-01 Lnorm=8.713e-07 integral=0.999067 lam=80.0
+
+===== n=9 seed=409 =====
+Usando device: cuda
+n=9 ep=1 E=8.500000 L=2.999e+02 LPDE=7.256e-04 Lnorm=9.996e-01 integral=0.000222 lam=300.0
+n=9 ep=4000 E=7.747251 L=2.527e+00 LPDE=2.351e+00 Lnorm=5.857e-04 integral=0.975798 lam=300.0
+n=9 ep=8000 E=7.388067 L=4.464e-01 LPDE=4.297e-01 Lnorm=5.536e-05 integral=1.007441 lam=300.0
+n=9 ep=12000 E=7.038082 L=3.574e-01 LPDE=3.470e-01 Lnorm=3.452e-05 integral=0.994124 lam=300.0
+n=9 ep=16000 E=6.623771 L=2.690e-01 LPDE=2.690e-01 Lnorm=1.711e-07 integral=1.000414 lam=80.0
+n=9 ep=20000 E=6.406124 L=2.335e-01 LPDE=2.333e-01 Lnorm=2.760e-06 integral=0.998339 lam=80.0
+
+===== n=10 seed=410 =====
+Usando device: cuda
+n=10 ep=1 E=9.500001 L=2.663e+02 LPDE=2.580e-01 Lnorm=8.868e-01 integral=0.058287 lam=300.0
+n=10 ep=4000 E=8.422873 L=3.249e+00 LPDE=3.249e+00 Lnorm=8.405e-08 integral=1.000290 lam=300.0
+n=10 ep=8000 E=7.504098 L=2.335e+00 LPDE=2.334e+00 Lnorm=4.297e-06 integral=0.997927 lam=300.0
+n=10 ep=12000 E=6.931476 L=3.152e-01 LPDE=3.149e-01 Lnorm=1.095e-06 integral=0.998953 lam=300.0
+n=10 ep=16000 E=6.499406 L=2.249e-01 LPDE=2.247e-01 Lnorm=2.370e-06 integral=0.998461 lam=80.0
+n=10 ep=20000 E=6.280882 L=1.879e-01 LPDE=1.878e-01 Lnorm=1.396e-06 integral=0.998819 lam=80.0
+
+===== n=11 seed=411 =====
+Usando device: cuda
+n=11 ep=1 E=10.500000 L=2.989e+02 LPDE=1.088e-02 Lnorm=9.962e-01 integral=0.001907 lam=300.0
+n=11 ep=4000 E=9.609268 L=4.528e+00 LPDE=4.528e+00 Lnorm=1.541e-07 integral=1.000393 lam=300.0
+n=11 ep=8000 E=8.861845 L=7.900e-01 LPDE=7.889e-01 Lnorm=3.827e-06 integral=0.998044 lam=300.0
+n=11 ep=12000 E=8.496215 L=6.824e-01 LPDE=6.812e-01 Lnorm=4.024e-06 integral=0.997994 lam=300.0
+n=11 ep=16000 E=8.063727 L=5.681e-01 LPDE=5.669e-01 Lnorm=1.434e-05 integral=0.996213 lam=80.0
+n=11 ep=20000 E=7.955655 L=4.181e-01 LPDE=4.171e-01 Lnorm=1.226e-05 integral=0.996499 lam=80.0
+
+===== n=12 seed=412 =====
+Usando device: cuda
+n=12 ep=1 E=11.500000 L=2.999e+02 LPDE=1.076e-03 Lnorm=9.997e-01 integral=0.000150 lam=300.0
+n=12 ep=4000 E=10.709482 L=6.005e+00 LPDE=5.827e+00 Lnorm=5.948e-04 integral=0.975611 lam=300.0
+n=12 ep=8000 E=10.014384 L=5.058e+00 LPDE=5.058e+00 Lnorm=1.513e-06 integral=1.001230 lam=300.0
+n=12 ep=12000 E=9.363719 L=4.259e+00 LPDE=4.259e+00 Lnorm=2.223e-07 integral=0.999529 lam=300.0
+n=12 ep=16000 E=8.935920 L=5.581e-01 LPDE=5.567e-01 Lnorm=1.704e-05 integral=0.995872 lam=80.0
+n=12 ep=20000 E=9.028330 L=4.625e-01 LPDE=4.616e-01 Lnorm=1.142e-05 integral=0.996621 lam=80.0
+
+===== n=13 seed=413 =====
+Usando device: cuda
+n=13 ep=1 E=12.500000 L=2.941e+02 LPDE=8.810e-02 Lnorm=9.800e-01 integral=0.010029 lam=300.0
+n=13 ep=4000 E=11.648486 L=7.338e+00 LPDE=7.172e+00 Lnorm=5.533e-04 integral=0.976477 lam=300.0
+n=13 ep=8000 E=11.179055 L=8.262e-01 LPDE=8.243e-01 Lnorm=6.386e-06 integral=0.997473 lam=300.0
+n=13 ep=12000 E=10.865742 L=7.199e-01 LPDE=7.137e-01 Lnorm=2.052e-05 integral=0.995470 lam=300.0
+n=13 ep=16000 E=10.447911 L=6.182e-01 LPDE=6.165e-01 Lnorm=2.122e-05 integral=0.995393 lam=80.0
+n=13 ep=20000 E=10.229364 L=5.643e-01 LPDE=5.629e-01 Lnorm=1.704e-05 integral=0.995872 lam=80.0
+
+===== n=14 seed=414 =====
+Usando device: cuda
+n=14 ep=1 E=13.500000 L=2.796e+02 LPDE=3.694e-01 Lnorm=9.307e-01 integral=0.035249 lam=300.0
+n=14 ep=4000 E=12.819291 L=9.210e+00 LPDE=9.038e+00 Lnorm=5.747e-04 integral=0.976028 lam=300.0
+n=14 ep=8000 E=11.985849 L=7.871e+00 LPDE=7.871e+00 Lnorm=1.128e-08 integral=0.999894 lam=300.0
+n=14 ep=12000 E=11.300603 L=6.783e+00 LPDE=6.716e+00 Lnorm=2.248e-04 integral=0.985005 lam=300.0
+n=14 ep=16000 E=10.751776 L=5.915e+00 LPDE=5.807e+00 Lnorm=1.351e-03 integral=0.963239 lam=80.0
+n=14 ep=20000 E=10.663219 L=5.348e-01 LPDE=5.337e-01 Lnorm=1.313e-05 integral=0.996377 lam=80.0
+
+===== n=15 seed=415 =====
+Usando device: cuda
+n=15 ep=1 E=14.500000 L=2.993e+02 LPDE=1.543e-02 Lnorm=9.975e-01 integral=0.001231 lam=300.0
+n=15 ep=4000 E=13.553988 L=1.062e+01 LPDE=1.061e+01 Lnorm=1.869e-05 integral=0.995677 lam=300.0
+n=15 ep=8000 E=12.780551 L=1.129e+00 LPDE=1.126e+00 Lnorm=8.125e-06 integral=0.997150 lam=300.0
+n=15 ep=12000 E=12.354945 L=9.284e-01 LPDE=9.032e-01 Lnorm=8.412e-05 integral=0.990828 lam=300.0
+n=15 ep=16000 E=11.879252 L=7.846e-01 LPDE=7.824e-01 Lnorm=2.749e-05 integral=0.994757 lam=80.0
+n=15 ep=20000 E=11.647131 L=7.270e-01 LPDE=7.251e-01 Lnorm=2.348e-05 integral=0.995154 lam=80.0
+
+===== n=16 seed=416 =====
+Usando device: cuda
+n=16 ep=1 E=15.500000 L=2.975e+02 LPDE=6.252e-02 Lnorm=9.914e-01 integral=0.004310 lam=300.0
+n=16 ep=4000 E=14.693775 L=1.273e+01 LPDE=1.271e+01 Lnorm=5.029e-05 integral=0.992908 lam=300.0
+n=16 ep=8000 E=13.821792 L=1.101e+01 LPDE=1.098e+01 Lnorm=7.987e-05 integral=0.991063 lam=300.0
+n=16 ep=12000 E=13.130232 L=9.744e+00 LPDE=9.571e+00 Lnorm=5.784e-04 integral=0.975949 lam=300.0
+n=16 ep=16000 E=12.552418 L=8.558e+00 LPDE=8.308e+00 Lnorm=3.131e-03 integral=0.944042 lam=80.0
+n=16 ep=20000 E=12.399616 L=5.773e+00 LPDE=5.600e+00 Lnorm=2.164e-03 integral=0.953486 lam=80.0
+
+===== n=17 seed=417 =====
+Usando device: cuda
+n=17 ep=1 E=16.500000 L=2.944e+02 LPDE=1.627e-01 Lnorm=9.809e-01 integral=0.009613 lam=300.0
+n=17 ep=4000 E=15.722217 L=1.581e+00 LPDE=1.549e+00 Lnorm=1.057e-04 integral=0.989717 lam=300.0
+n=17 ep=8000 E=15.188608 L=1.321e+00 LPDE=1.318e+00 Lnorm=9.375e-06 integral=0.996938 lam=300.0
+n=17 ep=12000 E=14.820565 L=1.195e+00 LPDE=1.195e+00 Lnorm=2.917e-06 integral=1.001708 lam=300.0
+n=17 ep=16000 E=14.294749 L=1.042e+00 LPDE=1.038e+00 Lnorm=4.874e-05 integral=0.993018 lam=80.0
+n=17 ep=20000 E=14.058474 L=9.655e-01 LPDE=9.619e-01 Lnorm=4.505e-05 integral=0.993288 lam=80.0
+
+===== n=18 seed=418 =====
+Usando device: cuda
+n=18 ep=1 E=17.500000 L=2.952e+02 LPDE=1.592e-01 Lnorm=9.835e-01 integral=0.008293 lam=300.0
+n=18 ep=4000 E=16.456820 L=1.644e+01 LPDE=1.613e+01 Lnorm=1.047e-03 integral=0.967646 lam=300.0
+n=18 ep=8000 E=15.617593 L=3.415e+00 LPDE=3.314e+00 Lnorm=3.355e-04 integral=0.981682 lam=300.0
+n=18 ep=12000 E=15.245043 L=9.027e-01 LPDE=9.022e-01 Lnorm=1.617e-06 integral=0.998728 lam=300.0
+n=18 ep=16000 E=14.786107 L=6.168e-01 LPDE=6.150e-01 Lnorm=2.264e-05 integral=0.995242 lam=80.0
+n=18 ep=20000 E=14.535090 L=5.490e-01 LPDE=5.479e-01 Lnorm=1.358e-05 integral=0.996315 lam=80.0
+
+===== n=19 seed=419 =====
+Usando device: cuda
+n=19 ep=1 E=18.500000 L=2.999e+02 LPDE=3.795e-03 Lnorm=9.997e-01 integral=0.000173 lam=300.0
+n=19 ep=4000 E=17.740520 L=2.278e+00 LPDE=2.274e+00 Lnorm=1.451e-05 integral=0.996190 lam=300.0
+n=19 ep=8000 E=17.288046 L=1.564e+00 LPDE=1.556e+00 Lnorm=2.750e-05 integral=0.994756 lam=300.0
+n=19 ep=12000 E=16.747091 L=1.425e+00 LPDE=1.424e+00 Lnorm=5.139e-06 integral=0.997733 lam=300.0
+n=19 ep=16000 E=16.287880 L=1.277e+00 LPDE=1.271e+00 Lnorm=7.983e-05 integral=0.991066 lam=80.0
+n=19 ep=20000 E=16.097168 L=1.179e+00 LPDE=1.174e+00 Lnorm=7.005e-05 integral=0.991631 lam=80.0
+
+===== n=20 seed=420 =====
+Usando device: cuda
+n=20 ep=1 E=19.500000 L=3.000e+02 LPDE=1.838e-03 Lnorm=9.998e-01 integral=0.000075 lam=300.0
+n=20 ep=4000 E=18.553596 L=2.156e+01 LPDE=2.098e+01 Lnorm=1.918e-03 integral=0.956202 lam=300.0
+n=20 ep=8000 E=17.630011 L=1.923e+01 LPDE=1.875e+01 Lnorm=1.594e-03 integral=0.960069 lam=300.0
+n=20 ep=12000 E=16.931013 L=1.755e+01 LPDE=1.740e+01 Lnorm=4.850e-04 integral=0.977978 lam=300.0
+n=20 ep=16000 E=16.504797 L=6.321e+00 LPDE=6.112e+00 Lnorm=2.608e-03 integral=0.948927 lam=80.0
+n=20 ep=20000 E=16.400045 L=1.040e+00 LPDE=1.036e+00 Lnorm=4.867e-05 integral=0.993024 lam=80.0
+
+Completado.

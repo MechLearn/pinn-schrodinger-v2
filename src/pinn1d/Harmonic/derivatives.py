@@ -1,16 +1,24 @@
-# src/pinn1d/Harmonic/derivatives.py
+# src/pinn1d/InfiniteWell/derivatives.py
 
-import tensorflow as tf
+import torch
 
-@tf.function
+
 def second_derivative(model, x):
-    x = tf.convert_to_tensor(x)
-    x = tf.reshape(x, (-1, 1))
-    with tf.GradientTape() as t2:
-        t2.watch(x)
-        with tf.GradientTape() as t1:
-            t1.watch(x)
-            psi = model(x)
-        psi_x = t1.gradient(psi, x)
-    psi_xx = t2.gradient(psi_x, x)
+    x = x.requires_grad_(True)
+    psi = model(x)
+
+    psi_x = torch.autograd.grad(
+        psi, x,
+        grad_outputs=torch.ones_like(psi),
+        create_graph=True,
+        retain_graph=True
+    )[0]
+
+    psi_xx = torch.autograd.grad(
+        psi_x, x,
+        grad_outputs=torch.ones_like(psi_x),
+        create_graph=True,
+        retain_graph=True
+    )[0]
+
     return psi, psi_xx

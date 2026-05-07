@@ -1,0 +1,32 @@
+save_dir: outputs/Harmonic/runs
+experiment_name: A2
+seed: 0
+
+x_max: 6.0
+
+model:
+  hidden: 256
+  use_sine: true
+
+train:
+  n_col_min: 2048
+  n_col_per_n: 4096
+  clipnorm: 1.0
+
+  epochs:
+    n1: 8000
+    n2: 10000
+    n3: 15000
+    n_ge4: 20000
+
+  lr:
+    n1: 1e-3
+    n2: 7e-4
+    n3: 5e-4
+    n_ge4: 3e-4
+
+loss:
+  lam:
+    n1:         [40.0, 10.0]
+    n2:         [40.0, 15.0]
+    high_modes: [300.0, 80.0]

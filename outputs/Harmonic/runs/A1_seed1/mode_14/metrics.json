@@ -1,0 +1,23 @@
+{
+  "potential": "harmonic",
+  "n": 14,
+  "experiment_name": "A1",
+  "seed": 1,
+  "E_learned": 10.286050796508789,
+  "E_exact": 13.5,
+  "E_rel": 0.2380703113697017,
+  "L2": 1.4122582416770872,
+  "integral": 0.9975235462188721,
+  "final_loss": 0.3692234754562378,
+  "final_pde": 0.3687995672225952,
+  "final_norm": 5.298888027027715e-06,
+  "epochs": 20000,
+  "N_col": 28672,
+  "hidden": 128,
+  "use_sine": true,
+  "x_max": 6.0,
+  "lam_hi": 300.0,
+  "lam_lo": 80.0,
+  "lr0": 0.0003,
+  "device": "cuda"
+}

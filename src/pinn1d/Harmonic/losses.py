@@ -1,32 +1,27 @@
 # src/pinn1d/Harmonic/losses.py
 
-import tensorflow as tf
+import torch
 from .derivatives import second_derivative
 
 
-@tf.function
-def compute_losses(net, x_batch, alpha, lam):
+def compute_losses(model, x_batch, alpha, lam):
     """
     Pérdida para el oscilador armónico 1D.
-
-    Ecuación: -ψ'' + (x²/2) ψ = E ψ
-    Residuo:   ψ'' + (E - x²/2) ψ = 0
+    Residuo: ψ'' + (E - x²/2) ψ = 0
     """
-    psi, psi_xx = second_derivative(net, x_batch)
+    psi, psi_xx = second_derivative(model, x_batch)
 
-    E = tf.nn.softplus(alpha) + 1e-8
+    E = torch.nn.functional.softplus(alpha) + 1e-8
 
-    x = tf.reshape(x_batch, (-1, 1))
-    V = 0.5 * tf.square(x)
-
+    V    = 0.5 * x_batch ** 2
     res  = psi_xx + (E - V) * psi
-    LPDE = tf.reduce_mean(tf.square(res))
+    LPDE = torch.mean(res ** 2)
 
-    psi2     = tf.squeeze(tf.square(psi), axis=1)
-    xb       = tf.squeeze(tf.convert_to_tensor(x_batch), axis=1)
+    psi2     = psi.squeeze() ** 2
+    xb       = x_batch.squeeze()
     dx       = xb[1:] - xb[:-1]
-    integral = tf.reduce_sum(0.5 * (psi2[1:] + psi2[:-1]) * dx)
-    Lnorm    = tf.square(integral - 1.0)
+    integral = torch.sum(0.5 * (psi2[1:] + psi2[:-1]) * dx)
+    Lnorm    = (integral - 1.0) ** 2
 
     L = LPDE + lam * Lnorm
     return L, LPDE, Lnorm, integral, E
